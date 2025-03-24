@@ -1,0 +1,64 @@
+# Custom Matplotlib Style File
+
+# General plot settings
+axes.grid: True          # Enable grid
+axes.grid.axis: both   
+axes.axisbelow: True   # Apply grid to both axes
+axes.xmargin: 0.05
+axes.ymargin: 0.05
+
+grid.linestyle: :        # Grid line style (dotted)
+grid.linewidth: 1    # Grid line width
+
+
+# Legend settings
+legend.frameon: True     # Draw frame around legend
+legend.loc: best         # Automatically find the best location
+
+# Savefig settings
+savefig.transparent: False  # Do not use transparent background
+savefig.dpi: 500           # DPI for saved figures
+
+# Miscellaneous settings
+lines.markeredgewidth: 0.5 # Marker edge width
+
+# LaTeX settings
+# text.usetex: True          # Enable LaTeX rendering
+# font.family: serif         # Set font family to serif
+# font.serif: Computer Modern  # Use Computer Modern for LaTeX
+
+# Color
+axes.prop_cycle: cycler("color", ["#e6414a","#f18927","#ffc12d","#2acc55","#27c495","#0b76e7","#8932cc","#d23fd5", "#cf2e41","#e26e19","#eca923","#0fa03f","#2ba17c","#2166e1","#6820af","#ae20b1"])
+
+
+lines.color: f6f6f6
+patch.edgecolor: f6f6f6
+
+text.color: f6f6f6
+
+axes.facecolor: 111111
+axes.edgecolor: f6f6f6
+axes.labelcolor: f6f6f6
+
+
+xtick.color: f6f6f6
+ytick.color: f6f6f6
+
+legend.framealpha: 0.9
+legend.edgecolor: 454545 
+
+
+figure.facecolor: 111111
+figure.edgecolor: 111111
+
+grid.color: 454545
+
+savefig.facecolor: 111111
+savefig.edgecolor: 111111
+
+### Boxplots
+boxplot.boxprops.color: f6f6f6
+boxplot.capprops.color: f6f6f6
+boxplot.flierprops.color: f6f6f6
+boxplot.flierprops.markeredgecolor: f6f6f6
+boxplot.whiskerprops.color: f6f6f6
