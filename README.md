@@ -32,4 +32,4 @@ Willkommen in meinem Repository für den IT-Unterricht! Hier sammle ich meine L�
 📁 `projekte/` – Größere Projekte oder Experimente aus dem Unterricht.  
 
 ## 📜 Hinweise  
-Dieses Repository dient als persönliche Sammlung meiner Arbeiten aus dem IT-Unterricht. Falls du Anmerkungen oder Verbesserungsvorschläge hast, freue ich mich über Feedback! 😊  
+Dieses Repository dient als persönliche Sammlung meiner Arbeiten aus dem IT-Unterricht.😊  
