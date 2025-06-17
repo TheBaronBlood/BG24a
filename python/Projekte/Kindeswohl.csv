@@ -1,0 +1,1001 @@
+Alter des Kindes (0-17 Jahre),"Geschlecht des Kindes (1=männlich, 2=weiblich)","Bildungsniveau der Eltern (0=kein Abschluss, 1=Hauptschule, 2=Realschule, 3=Abitur, 4=Hochschule)","Einkommensstatus der Familie (0=unter der Armutsgrenze, 1=mittleres Einkommen, 2=hohes Einkommen)",Arbeitslosigkeit der Eltern,"Häusliche Gewalt zwischen Eltern (0=nein, 1=ja)","Psychische Erkrankungen der Eltern (0=nein, 1=ja)",Summe der Herausforderungen im Elternhaus,"Emotionale Vernachlässigung des Kindes (0=nein, 1=ja)","Physische Vernachlässigung des Kindes (0=nein, 1=ja)","Körperliche Misshandlung des Kindes (0=nein, 1=ja)",Summe der Gefährdungen für Kinder,"Kontakt mit Jugendamt (0=nein, 1=ja)","Kindeswohlgefährdung (0=keine, 1=ja)",Inobhutnahme durch Jugendamt,Beratung durch Jugendamt,Intervention durch Jugendamt,"Summe der Interventionen durch das Jugendamt (2=keine, 3=eine, 4=zwei)"
+16,1,0,0,ja,0,0,1,0,0.0,0,0,0,0.0,keine,keine,keine,2
+0,1,0,1,ja,1,1,3,1,1.0,1,3,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+7,1,2,0,ja,1,1,3,0,1.0,0,1,0,0.0,Inobhutnahme,keine,Inobhutnahme,3
+3,2,3,2,nein,0,1,1,0,0.0,0,0,0,0.0,keine,keine,keine,2
+5,1,2,0,ja,1,1,3,0,,1,2,0,0.0,keine,keine,keine,2
+16,2,0,2,nein,1,1,2,1,1.0,1,3,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+8,1,3,1,ja,0,1,2,1,1.0,0,2,0,0.0,keine,Beratung,Beratung,3
+10,2,0,1,ja,1,1,3,1,1.0,1,3,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+3,2,0,1,ja,1,1,3,1,1.0,1,3,1,1.0,keine,Beratung,Beratung,3
+9,1,3,1,ja,0,0,1,0,1.0,1,2,0,0.0,keine,keine,keine,2
+17,2,4,1,nein,0,0,0,1,0.0,0,1,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+1,1,2,0,ja,1,1,3,1,1.0,1,3,0,0.0,keine,Beratung,Beratung,3
+7,2,2,2,nein,0,0,0,0,0.0,0,0,0,0.0,keine,keine,keine,2
+8,1,0,0,ja,1,1,3,0,1.0,1,2,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+14,1,2,2,nein,0,0,0,0,0.0,0,0,0,0.0,keine,keine,keine,2
+2,2,2,2,nein,1,1,2,1,1.0,1,3,1,1.0,keine,Beratung,Beratung,3
+17,1,2,1,ja,0,0,1,0,1.0,1,2,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+0,1,1,0,ja,0,0,1,0,0.0,1,1,0,0.0,keine,keine,keine,2
+9,1,3,2,ja,1,0,2,0,,1,2,0,0.0,Inobhutnahme,keine,Inobhutnahme,3
+5,2,4,2,nein,0,0,0,0,0.0,1,1,0,0.0,Inobhutnahme,keine,Inobhutnahme,3
+7,2,0,0,ja,1,0,2,1,1.0,1,3,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+4,1,0,0,ja,1,1,3,1,1.0,1,3,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+0,1,2,0,ja,1,0,2,0,1.0,1,2,0,0.0,keine,keine,keine,2
+17,2,1,2,nein,0,1,1,0,0.0,0,0,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+1,1,3,2,nein,1,0,1,0,0.0,1,1,0,0.0,keine,keine,keine,2
+5,1,1,0,ja,1,1,3,1,1.0,1,3,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+2,2,0,0,ja,1,1,3,1,1.0,1,3,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+7,2,3,1,ja,0,1,2,0,0.0,0,0,0,0.0,keine,keine,keine,2
+5,2,0,0,ja,1,1,3,1,1.0,1,3,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+17,2,1,1,nein,0,0,0,0,0.0,0,0,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+2,1,0,1,ja,1,1,3,0,1.0,1,2,1,0.0,keine,Beratung,Beratung,3
+6,2,4,0,ja,0,1,2,0,0.0,0,0,0,0.0,keine,keine,keine,2
+13,1,3,2,ja,1,0,2,0,0.0,0,0,0,,keine,keine,keine,2
+17,2,1,1,ja,0,0,1,0,0.0,0,0,0,0.0,Inobhutnahme,keine,Inobhutnahme,3
+0,2,0,1,nein,1,1,2,1,1.0,1,3,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+17,2,4,2,nein,0,0,0,0,0.0,0,0,0,0.0,keine,Beratung,Beratung,3
+17,1,0,0,ja,0,0,1,0,1.0,1,2,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+0,2,4,2,nein,0,0,0,0,0.0,1,1,0,0.0,keine,keine,keine,2
+16,2,0,1,ja,1,1,3,1,1.0,1,3,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+17,1,0,0,ja,1,0,2,1,1.0,1,3,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+17,2,0,1,ja,0,1,2,1,0.0,1,2,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+0,2,1,0,ja,1,1,3,1,1.0,1,3,1,1.0,Inobhutnahme,keine,Inobhutnahme,3
+0,1,0,0,ja,1,1,3,1,1.0,1,3,0,0.0,keine,keine,keine,2
+6,2,3,0,ja,0,1,2,0,1.0,1,2,1,1.0,Inobhutnahme,keine,Inobhutnahme,3
+4,2,2,1,nein,1,1,2,1,0.0,0,1,0,0.0,keine,Beratung,Beratung,3
+2,1,1,1,nein,0,1,1,0,0.0,0,0,0,0.0,keine,Beratung,Beratung,3
+17,2,3,0,ja,0,1,2,0,0.0,0,0,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+15,2,3,0,nein,1,1,2,1,1.0,1,3,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+8,1,3,0,ja,1,0,2,0,1.0,1,2,0,0.0,Inobhutnahme,keine,Inobhutnahme,3
+0,1,2,2,nein,0,0,0,0,0.0,0,0,0,0.0,keine,keine,keine,2
+14,2,0,0,ja,1,1,3,1,1.0,1,3,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+17,2,1,1,nein,1,0,1,0,0.0,0,0,1,1.0,Inobhutnahme,keine,Inobhutnahme,3
+17,2,1,0,ja,0,1,2,1,0.0,0,1,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+14,1,3,2,nein,0,0,0,0,,0,0,0,0.0,keine,keine,keine,2
+17,1,4,2,ja,0,0,1,0,0.0,0,0,0,0.0,keine,keine,keine,2
+2,1,3,1,nein,1,0,1,1,1.0,1,3,1,1.0,keine,keine,keine,2
+0,2,1,1,ja,1,1,3,1,1.0,0,2,0,0.0,keine,Beratung,Beratung,3
+17,2,4,1,nein,0,1,1,0,0.0,0,0,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+17,2,1,1,ja,0,0,1,0,0.0,0,0,0,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+5,2,0,1,ja,1,1,3,1,1.0,1,3,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+2,1,0,2,nein,1,0,1,1,1.0,1,3,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+1,2,1,0,nein,0,1,1,0,0.0,0,0,0,0.0,keine,keine,keine,2
+13,2,0,0,ja,0,1,2,1,1.0,1,3,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+17,1,4,2,nein,0,0,0,0,0.0,0,0,0,0.0,keine,Beratung,Beratung,3
+15,1,3,0,ja,1,0,2,0,1.0,1,2,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+16,2,2,1,nein,1,0,1,0,1.0,1,2,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+11,1,0,0,nein,1,0,1,0,0.0,1,1,0,1.0,Inobhutnahme,keine,Inobhutnahme,3
+17,2,3,0,ja,0,0,1,0,0.0,0,0,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+1,2,2,0,ja,1,1,3,1,1.0,1,3,1,1.0,keine,Beratung,Beratung,3
+17,1,1,2,nein,1,0,1,0,1.0,1,2,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+2,2,3,2,nein,0,1,1,0,0.0,0,0,0,0.0,keine,keine,keine,2
+0,2,4,2,nein,1,0,1,0,,1,1,0,0.0,keine,keine,keine,2
+16,2,4,2,nein,0,0,0,0,0.0,0,0,0,0.0,keine,keine,keine,2
+2,1,3,0,ja,0,1,2,0,0.0,0,0,0,0.0,keine,keine,keine,2
+13,2,0,0,ja,1,0,2,0,0.0,0,0,0,1.0,Inobhutnahme,keine,Inobhutnahme,3
+7,1,2,1,nein,0,0,0,0,0.0,0,0,0,0.0,keine,keine,keine,2
+0,1,3,0,ja,1,1,3,0,0.0,1,1,0,0.0,keine,keine,keine,2
+17,1,0,1,ja,0,0,1,1,1.0,1,3,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+17,2,1,2,nein,0,1,1,0,0.0,0,0,1,1.0,Inobhutnahme,keine,Inobhutnahme,3
+14,1,2,2,nein,0,1,1,1,1.0,0,2,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+10,2,0,0,ja,1,1,3,1,1.0,1,3,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+16,1,1,0,ja,1,0,2,1,1.0,1,3,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+10,1,4,2,nein,0,0,0,0,0.0,0,0,0,0.0,keine,keine,keine,2
+17,2,2,0,ja,1,1,3,1,0.0,1,2,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+0,1,2,1,nein,1,0,1,1,1.0,1,3,0,0.0,keine,keine,keine,2
+13,2,1,0,ja,1,1,3,1,1.0,1,3,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+14,2,3,2,nein,0,1,1,1,1.0,0,2,0,0.0,keine,Beratung,Beratung,3
+1,2,4,2,nein,0,1,1,0,0.0,0,0,0,0.0,keine,keine,keine,2
+11,2,1,1,ja,1,1,3,1,1.0,1,3,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+3,2,3,2,ja,1,1,3,1,0.0,0,1,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+17,2,4,2,nein,0,1,1,0,0.0,0,0,0,0.0,keine,keine,keine,2
+4,1,3,0,ja,0,1,2,0,0.0,0,0,0,0.0,keine,keine,keine,2
+13,1,0,0,ja,1,1,3,1,1.0,1,3,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+13,1,4,2,nein,0,0,0,0,0.0,0,0,0,0.0,keine,keine,keine,2
+17,1,3,2,nein,0,1,1,0,0.0,0,0,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+16,1,3,2,ja,0,0,1,1,1.0,1,3,1,1.0,keine,Beratung,Beratung,3
+17,2,2,1,nein,0,0,0,0,0.0,0,0,0,0.0,Inobhutnahme,keine,Inobhutnahme,3
+17,1,0,0,ja,0,1,2,0,0.0,0,0,0,0.0,keine,keine,keine,2
+0,1,4,0,nein,1,1,2,0,0.0,0,0,0,0.0,keine,keine,keine,2
+5,1,4,1,ja,0,1,2,0,0.0,0,0,0,0.0,keine,keine,keine,2
+15,2,4,2,nein,0,0,0,0,0.0,1,1,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+10,1,2,1,nein,1,1,2,1,1.0,1,3,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+3,1,2,2,nein,0,0,0,1,0.0,1,2,1,0.0,Inobhutnahme,keine,Inobhutnahme,3
+0,1,3,2,ja,0,0,1,1,1.0,0,2,0,0.0,keine,keine,keine,2
+3,1,0,0,ja,1,1,3,1,1.0,1,3,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+17,2,0,1,nein,1,1,2,1,0.0,0,1,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+7,2,3,1,nein,0,1,1,1,0.0,0,1,0,0.0,keine,Beratung,Beratung,3
+2,2,3,2,nein,1,1,2,1,1.0,1,3,0,0.0,keine,Beratung,Beratung,3
+17,2,4,2,nein,0,0,0,0,0.0,0,0,0,0.0,keine,keine,keine,2
+0,2,0,0,ja,1,1,3,1,1.0,1,3,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+15,2,4,2,nein,0,0,0,1,0.0,0,1,0,0.0,Inobhutnahme,keine,Inobhutnahme,3
+17,1,4,2,nein,0,0,0,0,0.0,0,0,1,1.0,Inobhutnahme,keine,Inobhutnahme,3
+0,2,2,0,ja,1,0,2,1,1.0,1,3,1,1.0,keine,Beratung,Beratung,3
+2,1,4,2,nein,0,0,0,0,0.0,0,0,0,0.0,keine,keine,keine,2
+0,1,1,1,ja,1,0,2,0,1.0,1,2,0,0.0,Inobhutnahme,keine,Inobhutnahme,3
+0,1,3,1,nein,1,1,2,1,1.0,1,3,0,0.0,keine,keine,keine,2
+17,2,0,1,nein,1,0,1,1,1.0,0,2,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+0,1,4,2,nein,0,0,0,0,0.0,0,0,0,0.0,keine,keine,keine,2
+0,1,4,2,nein,1,0,1,0,0.0,0,0,0,0.0,keine,keine,keine,2
+13,1,4,0,ja,1,0,2,1,1.0,1,3,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+15,1,1,2,nein,0,0,0,0,0.0,1,1,0,0.0,Inobhutnahme,keine,Inobhutnahme,3
+17,1,1,2,nein,1,0,1,0,0.0,0,0,0,0.0,keine,keine,keine,2
+16,2,1,2,nein,1,1,2,1,1.0,0,2,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+7,1,1,1,ja,1,0,2,0,1.0,1,2,1,0.0,keine,Beratung,Beratung,3
+13,2,2,0,ja,1,0,2,0,0.0,1,1,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+1,1,4,2,nein,1,0,1,0,0.0,1,1,0,0.0,keine,keine,keine,2
+11,1,0,0,ja,0,1,2,1,1.0,0,2,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+1,2,1,1,nein,0,1,1,1,1.0,0,2,0,0.0,keine,Beratung,Beratung,3
+0,1,0,0,ja,1,0,2,1,1.0,1,3,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+2,1,3,1,nein,1,0,1,0,0.0,1,1,0,0.0,keine,keine,keine,2
+17,2,3,2,nein,0,0,0,1,0.0,0,1,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+9,2,0,0,ja,1,1,3,1,1.0,0,2,1,1.0,keine,Beratung,Beratung,3
+15,2,1,1,ja,1,0,2,0,0.0,1,1,1,1.0,Inobhutnahme,keine,Inobhutnahme,3
+0,1,2,0,ja,1,0,2,0,1.0,1,2,0,0.0,keine,keine,keine,2
+7,1,2,1,ja,0,0,1,0,0.0,1,1,1,0.0,keine,keine,keine,2
+17,2,3,1,ja,0,0,1,0,0.0,0,0,0,1.0,Inobhutnahme,keine,Inobhutnahme,3
+0,2,2,2,nein,1,1,2,1,1.0,1,3,1,0.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+16,2,4,2,nein,0,0,0,0,0.0,0,0,0,0.0,keine,keine,keine,2
+7,1,4,1,ja,1,1,3,0,1.0,1,2,0,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+12,2,3,2,nein,0,0,0,0,0.0,0,0,0,0.0,Inobhutnahme,keine,Inobhutnahme,3
+0,2,2,1,ja,1,1,3,1,1.0,1,3,0,0.0,keine,keine,keine,2
+10,2,0,0,ja,1,1,3,1,1.0,0,2,1,1.0,keine,Beratung,Beratung,3
+8,2,3,1,nein,1,0,1,0,1.0,1,2,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+17,1,2,1,nein,0,0,0,0,,1,1,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+1,1,1,0,ja,1,1,3,1,1.0,1,3,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+2,2,2,0,nein,1,1,2,1,1.0,1,3,1,1.0,Inobhutnahme,keine,Inobhutnahme,3
+5,2,4,1,ja,0,0,1,0,0.0,0,0,0,0.0,keine,keine,keine,2
+0,1,1,1,ja,1,1,3,1,1.0,1,3,0,0.0,keine,keine,keine,2
+6,1,4,2,nein,0,0,0,0,0.0,1,1,0,0.0,keine,keine,keine,2
+6,1,0,1,nein,1,1,2,1,1.0,1,3,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+0,2,2,0,nein,1,0,1,0,0.0,0,0,0,0.0,keine,keine,keine,2
+16,1,1,1,ja,0,0,1,0,0.0,0,0,0,0.0,keine,keine,keine,2
+0,2,4,1,nein,0,0,0,0,0.0,0,0,0,0.0,keine,keine,keine,2
+0,1,0,0,nein,1,1,2,1,1.0,1,3,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+7,1,3,2,ja,0,1,2,0,0.0,0,0,0,0.0,keine,keine,keine,2
+14,1,0,0,ja,1,1,3,1,1.0,1,3,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+0,1,0,1,ja,0,1,2,0,1.0,0,1,0,0.0,keine,keine,keine,2
+15,2,1,0,ja,0,0,1,0,0.0,0,0,0,0.0,Inobhutnahme,keine,Inobhutnahme,3
+0,1,4,2,nein,1,0,1,0,0.0,1,1,0,0.0,keine,keine,keine,2
+7,1,1,2,nein,1,0,1,0,0.0,1,1,0,1.0,Inobhutnahme,keine,Inobhutnahme,3
+13,2,3,1,nein,1,0,1,0,0.0,1,1,1,,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+1,1,4,2,nein,0,0,0,0,0.0,0,0,0,0.0,keine,keine,keine,2
+2,2,1,1,ja,0,1,2,0,0.0,0,0,0,0.0,keine,keine,keine,2
+10,2,1,2,nein,0,1,1,0,,0,0,0,0.0,keine,Beratung,Beratung,3
+17,2,0,0,ja,1,1,3,1,1.0,1,3,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+0,1,0,2,nein,1,1,2,0,1.0,1,2,0,0.0,keine,keine,keine,2
+0,2,3,2,nein,1,1,2,1,1.0,0,2,0,0.0,keine,Beratung,Beratung,3
+10,2,1,2,nein,1,0,1,1,1.0,1,3,1,1.0,keine,Beratung,Beratung,3
+1,2,2,0,ja,0,0,1,1,1.0,0,2,0,0.0,keine,keine,keine,2
+3,2,0,0,ja,0,1,2,0,1.0,0,1,0,0.0,keine,keine,keine,2
+10,2,2,2,nein,0,1,1,1,1.0,0,2,0,0.0,keine,Beratung,Beratung,3
+0,1,1,1,ja,1,1,3,1,1.0,1,3,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+1,1,0,0,ja,1,1,3,1,1.0,0,2,0,0.0,keine,keine,keine,2
+0,2,4,1,ja,1,0,2,0,0.0,0,0,0,0.0,keine,keine,keine,2
+12,1,3,2,nein,0,0,0,0,0.0,0,0,0,0.0,keine,keine,keine,2
+0,2,2,0,ja,1,1,3,1,1.0,1,3,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+16,1,0,0,ja,0,1,2,0,0.0,0,0,0,0.0,keine,Beratung,Beratung,3
+17,1,2,2,nein,0,0,0,0,1.0,1,2,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+0,1,0,0,ja,1,1,3,1,1.0,1,3,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+8,1,3,2,nein,0,1,1,0,0.0,0,0,1,1.0,keine,keine,keine,2
+17,2,0,2,nein,1,0,1,0,1.0,1,2,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+17,2,2,0,ja,1,0,2,0,1.0,1,2,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+17,2,2,0,ja,0,1,2,0,0.0,0,0,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+1,1,1,0,ja,1,1,3,1,1.0,1,3,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+1,1,3,2,nein,1,1,2,0,0.0,0,0,0,0.0,keine,keine,keine,2
+17,1,1,0,ja,1,1,3,1,1.0,1,3,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+17,2,1,0,ja,1,1,3,1,1.0,1,3,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+1,1,4,1,ja,0,1,2,0,0.0,0,0,0,0.0,keine,keine,keine,2
+15,2,1,1,ja,1,1,3,1,1.0,1,3,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+17,1,1,1,nein,0,1,1,0,1.0,0,1,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+8,2,0,0,ja,1,1,3,1,1.0,1,3,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+2,1,4,1,ja,1,0,2,1,1.0,1,3,0,0.0,keine,keine,keine,2
+9,2,0,0,ja,1,1,3,1,1.0,1,3,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+17,2,2,2,nein,0,0,0,0,0.0,0,0,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+16,2,1,1,nein,0,1,1,0,0.0,0,0,0,0.0,keine,keine,keine,2
+17,1,2,0,ja,0,0,1,1,1.0,0,2,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+0,1,4,2,nein,0,0,0,0,0.0,0,0,0,0.0,keine,keine,keine,2
+10,2,3,0,ja,1,0,2,1,1.0,1,3,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+13,1,3,1,nein,1,1,2,1,1.0,0,2,1,1.0,keine,Beratung,Beratung,3
+13,1,3,0,ja,0,0,1,0,0.0,0,0,0,0.0,Inobhutnahme,keine,Inobhutnahme,3
+15,2,1,1,ja,0,1,2,1,1.0,0,2,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+0,1,0,0,ja,1,1,3,1,1.0,1,3,1,1.0,keine,keine,keine,2
+14,1,4,2,nein,0,1,1,0,0.0,0,0,0,0.0,keine,keine,keine,2
+0,1,1,1,nein,1,0,1,1,1.0,1,3,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+9,2,3,0,nein,1,1,2,1,1.0,0,2,1,1.0,Inobhutnahme,keine,Inobhutnahme,3
+6,2,4,2,nein,0,0,0,0,0.0,0,0,0,0.0,keine,keine,keine,2
+17,2,3,1,nein,0,0,0,0,0.0,0,0,1,1.0,keine,Beratung,Beratung,3
+0,1,4,0,ja,1,1,3,1,1.0,1,3,0,0.0,keine,keine,keine,2
+15,2,3,0,nein,1,0,1,1,0.0,0,1,1,1.0,Inobhutnahme,keine,Inobhutnahme,3
+6,2,1,1,ja,1,0,2,0,,1,1,0,0.0,keine,keine,keine,2
+12,1,2,0,ja,1,1,3,1,1.0,1,3,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+12,2,3,1,ja,1,1,3,1,1.0,1,3,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+3,2,0,0,ja,0,1,2,0,,0,0,0,0.0,keine,keine,keine,2
+13,1,1,0,ja,1,1,3,1,1.0,1,3,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+17,1,4,2,nein,0,0,0,0,0.0,1,1,0,0.0,Inobhutnahme,keine,Inobhutnahme,3
+11,2,4,0,ja,0,0,1,1,0.0,1,2,0,0.0,keine,Beratung,Beratung,3
+15,2,4,2,nein,0,0,0,0,0.0,0,0,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+17,1,0,0,ja,0,0,1,1,0.0,1,2,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+9,2,2,0,ja,0,1,2,1,0.0,0,1,0,1.0,Inobhutnahme,keine,Inobhutnahme,3
+11,2,4,2,nein,0,0,0,0,0.0,1,1,0,0.0,Inobhutnahme,keine,Inobhutnahme,3
+1,2,2,0,nein,1,1,2,1,1.0,0,2,0,0.0,keine,Beratung,Beratung,3
+2,1,0,0,ja,1,1,3,1,1.0,1,3,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+17,2,4,2,nein,0,1,1,1,1.0,0,2,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+0,1,2,0,nein,0,1,1,0,0.0,0,0,0,0.0,keine,keine,keine,2
+0,2,1,1,nein,1,0,1,1,1.0,1,3,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+2,1,0,0,ja,1,1,3,1,1.0,1,3,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+9,1,3,2,nein,0,0,0,0,0.0,1,1,0,1.0,Inobhutnahme,keine,Inobhutnahme,3
+17,2,0,0,ja,1,1,3,1,1.0,1,3,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+1,2,0,0,ja,1,1,3,1,1.0,1,3,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+2,1,2,0,ja,1,0,2,0,0.0,1,1,0,0.0,keine,keine,keine,2
+0,1,2,1,ja,1,0,2,0,0.0,1,1,0,0.0,Inobhutnahme,keine,Inobhutnahme,3
+0,1,1,1,ja,1,0,2,1,1.0,1,3,0,,keine,Beratung,Beratung,3
+0,2,3,0,ja,1,1,3,1,1.0,1,3,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+15,1,2,0,ja,1,0,2,1,1.0,1,3,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+0,1,2,0,ja,1,1,3,1,1.0,1,3,1,1.0,keine,Beratung,Beratung,3
+6,2,1,0,nein,0,1,1,1,0.0,0,1,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+16,2,3,2,nein,0,0,0,0,0.0,0,0,0,0.0,keine,keine,keine,2
+3,2,0,0,ja,1,1,3,1,1.0,1,3,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+17,2,2,1,ja,0,0,1,0,0.0,1,1,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+9,1,0,0,ja,1,0,2,1,0.0,1,2,0,0.0,keine,keine,keine,2
+0,1,2,2,nein,1,0,1,1,1.0,1,3,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+2,1,1,2,nein,0,0,0,0,0.0,0,0,0,0.0,keine,keine,keine,2
+0,2,2,2,nein,1,1,2,1,1.0,0,2,0,0.0,keine,Beratung,Beratung,3
+0,1,0,0,ja,1,1,3,1,1.0,0,2,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+0,2,0,1,nein,0,1,1,0,0.0,0,0,0,0.0,keine,keine,keine,2
+16,2,1,0,ja,1,1,3,1,1.0,1,3,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+14,2,1,0,ja,1,1,3,1,1.0,1,3,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+0,2,1,2,nein,1,1,2,1,0.0,0,1,0,0.0,keine,keine,keine,2
+17,1,3,1,ja,0,0,1,0,0.0,0,0,0,0.0,keine,Beratung,Beratung,3
+8,1,2,0,ja,1,1,3,1,1.0,1,3,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+1,2,3,2,nein,0,0,0,0,0.0,1,1,0,0.0,keine,keine,keine,2
+5,2,0,2,nein,1,1,2,0,0.0,1,1,0,0.0,keine,keine,keine,2
+6,2,2,1,nein,0,1,1,0,0.0,0,0,0,0.0,keine,keine,keine,2
+2,2,1,0,ja,1,1,3,1,1.0,1,3,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+0,1,1,2,ja,0,1,2,0,0.0,0,0,0,0.0,keine,keine,keine,2
+16,1,2,0,ja,1,1,3,0,0.0,1,1,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+17,1,1,1,nein,0,0,0,0,0.0,1,1,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+1,2,2,0,ja,1,1,3,1,1.0,1,3,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+4,1,4,2,ja,0,1,2,0,0.0,0,0,0,0.0,keine,keine,keine,2
+8,2,1,0,ja,1,0,2,1,1.0,1,3,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+0,1,4,2,nein,0,0,0,0,0.0,0,0,0,0.0,keine,keine,keine,2
+0,2,0,1,nein,1,1,2,1,1.0,1,3,0,0.0,keine,Beratung,Beratung,3
+6,1,3,2,nein,1,1,2,1,1.0,1,3,1,1.0,keine,Beratung,Beratung,3
+17,1,4,2,nein,0,0,0,0,0.0,0,0,0,0.0,keine,Beratung,Beratung,3
+3,1,3,2,nein,0,0,0,0,0.0,0,0,0,0.0,keine,keine,keine,2
+9,2,1,0,ja,1,1,3,1,1.0,1,3,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+17,2,3,0,ja,1,1,3,1,,1,3,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+15,2,1,1,nein,0,1,1,1,0.0,0,1,0,1.0,keine,Beratung,Beratung,3
+16,1,2,2,ja,0,0,1,0,1.0,1,2,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+13,2,0,2,ja,1,1,3,1,,1,3,1,1.0,Inobhutnahme,keine,Inobhutnahme,3
+15,1,1,0,nein,0,0,0,0,0.0,1,1,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+1,2,1,1,nein,1,0,1,1,1.0,1,3,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+2,1,0,0,ja,1,1,3,1,1.0,1,3,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+17,2,3,1,nein,0,1,1,0,0.0,0,0,1,1.0,Inobhutnahme,keine,Inobhutnahme,3
+2,1,3,0,ja,1,0,2,0,1.0,1,2,0,0.0,keine,keine,keine,2
+0,1,1,2,nein,0,0,0,0,0.0,1,1,0,0.0,keine,keine,keine,2
+8,1,1,1,ja,1,1,3,1,1.0,1,3,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+0,2,2,2,nein,1,0,1,1,0.0,0,1,0,0.0,keine,keine,keine,2
+4,1,1,1,nein,1,1,2,1,1.0,1,3,1,1.0,keine,Beratung,Beratung,3
+16,2,2,1,ja,0,0,1,0,0.0,0,0,0,0.0,keine,keine,keine,2
+15,1,3,2,ja,0,0,1,0,0.0,1,1,0,0.0,Inobhutnahme,keine,Inobhutnahme,3
+17,2,3,1,ja,0,0,1,0,1.0,1,2,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+17,1,4,2,nein,0,0,0,0,0.0,0,0,0,0.0,keine,keine,keine,2
+14,2,1,1,nein,0,0,0,0,0.0,0,0,0,0.0,keine,keine,keine,2
+2,1,0,0,ja,1,1,3,1,1.0,1,3,1,1.0,Inobhutnahme,keine,Inobhutnahme,3
+1,2,1,1,nein,0,1,1,1,1.0,1,3,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+10,1,2,1,ja,1,0,2,1,1.0,1,3,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+0,2,0,1,ja,1,0,2,1,1.0,1,3,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+1,2,2,2,nein,1,0,1,0,0.0,1,1,0,0.0,keine,keine,keine,2
+0,1,1,0,nein,1,1,2,1,1.0,1,3,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+15,2,3,1,nein,0,1,1,0,0.0,1,1,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+11,2,3,0,nein,1,1,2,1,1.0,1,3,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+4,1,2,0,ja,1,1,3,1,1.0,1,3,1,1.0,Inobhutnahme,keine,Inobhutnahme,3
+12,2,2,0,ja,0,0,1,0,0.0,0,0,0,0.0,keine,keine,keine,2
+16,1,1,1,ja,0,1,2,1,1.0,0,2,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+14,1,3,2,ja,1,0,2,0,1.0,1,2,0,0.0,Inobhutnahme,keine,Inobhutnahme,3
+17,1,4,2,nein,0,0,0,0,0.0,0,0,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+5,1,4,2,nein,0,1,1,0,0.0,0,0,0,0.0,keine,Beratung,Beratung,3
+17,2,4,1,ja,0,0,1,0,1.0,1,2,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+4,1,0,0,ja,1,1,3,1,1.0,1,3,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+17,2,2,2,nein,0,1,1,1,0.0,0,1,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+17,2,1,1,nein,1,1,2,1,0.0,0,1,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+13,2,0,0,nein,1,1,2,1,1.0,1,3,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+0,2,4,2,nein,0,1,1,0,0.0,0,0,0,0.0,keine,keine,keine,2
+5,1,1,0,nein,1,0,1,0,1.0,1,2,1,1.0,keine,Beratung,Beratung,3
+15,2,0,2,ja,1,0,2,1,1.0,1,3,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+17,2,1,1,nein,0,1,1,0,0.0,0,0,0,0.0,Inobhutnahme,keine,Inobhutnahme,3
+5,1,0,0,ja,1,0,2,1,1.0,1,3,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+2,1,2,2,nein,1,0,1,0,1.0,1,2,0,,Inobhutnahme,keine,Inobhutnahme,3
+15,2,0,1,nein,0,0,0,0,0.0,0,0,0,0.0,keine,keine,keine,2
+16,1,0,0,ja,1,1,3,0,0.0,0,0,0,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+17,2,0,1,ja,0,0,1,0,1.0,1,2,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+0,1,0,1,nein,0,1,1,0,0.0,0,0,0,0.0,keine,keine,keine,2
+1,2,3,0,ja,1,1,3,1,1.0,1,3,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+14,2,2,2,nein,0,1,1,1,1.0,0,2,0,1.0,keine,Beratung,Beratung,3
+4,1,4,2,nein,0,0,0,0,0.0,0,0,0,0.0,keine,keine,keine,2
+10,2,1,0,ja,1,1,3,1,1.0,1,3,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+16,1,4,1,nein,0,0,0,0,0.0,0,0,1,1.0,Inobhutnahme,keine,Inobhutnahme,3
+2,1,1,0,ja,0,0,1,1,1.0,1,3,0,0.0,keine,keine,keine,2
+4,2,3,1,ja,1,1,3,1,1.0,0,2,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+1,1,0,0,nein,1,0,1,1,1.0,1,3,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+8,1,1,0,ja,1,1,3,1,1.0,1,3,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+11,2,4,2,nein,0,0,0,0,0.0,1,1,0,0.0,keine,keine,keine,2
+16,2,1,0,ja,0,1,2,0,0.0,0,0,0,0.0,Inobhutnahme,keine,Inobhutnahme,3
+16,2,4,2,nein,0,0,0,0,0.0,0,0,0,0.0,keine,keine,keine,2
+8,2,1,0,ja,1,0,2,1,1.0,1,3,1,1.0,Inobhutnahme,keine,Inobhutnahme,3
+6,1,3,1,ja,1,0,2,0,0.0,0,0,0,0.0,keine,keine,keine,2
+0,1,1,1,nein,1,0,1,1,1.0,1,3,0,1.0,keine,Beratung,Beratung,3
+2,1,4,2,nein,0,0,0,0,0.0,0,0,0,0.0,keine,keine,keine,2
+15,1,4,1,nein,1,1,2,0,1.0,0,1,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+17,1,4,2,nein,0,0,0,0,0.0,0,0,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+0,1,0,0,ja,1,1,3,1,1.0,1,3,1,,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+8,2,4,1,ja,0,0,1,1,1.0,1,3,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+15,2,1,1,nein,0,1,1,1,0.0,0,1,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+17,2,0,2,nein,0,1,1,0,0.0,0,0,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+0,1,2,1,ja,1,1,3,1,1.0,1,3,1,1.0,keine,Beratung,Beratung,3
+11,2,3,2,nein,0,0,0,1,0.0,0,1,1,1.0,Inobhutnahme,keine,Inobhutnahme,3
+17,1,4,2,ja,0,1,2,0,0.0,0,0,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+17,1,4,2,nein,0,0,0,0,1.0,1,2,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+0,1,1,0,ja,1,1,3,1,1.0,0,2,0,0.0,keine,keine,keine,2
+13,2,1,1,nein,0,1,1,0,0.0,0,0,0,0.0,keine,keine,keine,2
+0,1,4,1,nein,1,0,1,0,0.0,1,1,0,0.0,keine,keine,keine,2
+0,2,3,0,ja,1,1,3,1,1.0,1,3,1,1.0,Inobhutnahme,keine,Inobhutnahme,3
+16,2,3,2,nein,0,1,1,1,0.0,0,1,1,1.0,keine,Beratung,Beratung,3
+16,2,2,1,ja,0,1,2,0,0.0,0,0,1,1.0,keine,keine,keine,2
+2,2,4,2,ja,1,0,2,0,0.0,1,1,0,0.0,keine,keine,keine,2
+17,2,3,0,ja,1,0,2,1,0.0,1,2,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+12,1,0,0,ja,1,1,3,1,1.0,1,3,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+17,1,2,2,nein,0,0,0,0,0.0,0,0,0,0.0,keine,keine,keine,2
+17,2,0,0,ja,1,1,3,1,1.0,1,3,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+2,2,3,2,ja,0,0,1,1,1.0,1,3,1,1.0,Inobhutnahme,keine,Inobhutnahme,3
+2,1,3,1,nein,1,0,1,1,1.0,1,3,1,1.0,keine,keine,keine,2
+5,1,4,2,ja,0,1,2,0,0.0,0,0,0,0.0,keine,Beratung,Beratung,3
+4,2,3,2,nein,1,0,1,0,1.0,1,2,1,0.0,Inobhutnahme,keine,Inobhutnahme,3
+6,1,4,2,nein,0,0,0,0,0.0,0,0,0,0.0,keine,keine,keine,2
+16,1,3,0,nein,1,1,2,0,1.0,1,2,1,1.0,keine,Beratung,Beratung,3
+15,2,3,2,nein,0,0,0,1,1.0,1,3,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+14,2,3,1,nein,0,0,0,0,0.0,0,0,0,0.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+0,2,0,0,ja,1,1,3,1,,1,3,0,0.0,keine,keine,keine,2
+0,1,0,2,nein,1,0,1,1,1.0,1,3,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+0,2,2,2,nein,0,0,0,1,1.0,0,2,0,0.0,keine,keine,keine,2
+9,1,1,1,ja,0,0,1,0,0.0,1,1,0,0.0,Inobhutnahme,keine,Inobhutnahme,3
+17,2,0,0,nein,0,1,1,1,1.0,1,3,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+0,2,2,2,nein,1,0,1,0,0.0,1,1,0,0.0,Inobhutnahme,keine,Inobhutnahme,3
+11,2,4,2,nein,0,0,0,0,0.0,0,0,0,0.0,keine,keine,keine,2
+14,2,0,1,nein,1,0,1,0,1.0,1,2,1,1.0,keine,Beratung,Beratung,3
+13,2,1,2,nein,0,0,0,1,0.0,0,1,0,0.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+16,2,4,2,nein,0,1,1,1,0.0,0,1,1,1.0,keine,Beratung,Beratung,3
+17,1,4,2,nein,0,0,0,0,0.0,0,0,0,0.0,keine,keine,keine,2
+17,1,3,1,ja,1,0,2,0,1.0,0,1,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+17,2,1,2,ja,0,0,1,1,0.0,1,2,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+14,1,3,2,ja,0,0,1,0,0.0,0,0,0,0.0,keine,keine,keine,2
+17,2,3,0,ja,0,0,1,0,0.0,0,0,1,1.0,Inobhutnahme,keine,Inobhutnahme,3
+17,2,0,0,ja,0,1,2,1,0.0,0,1,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+15,1,2,0,ja,0,1,2,1,1.0,0,2,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+3,1,2,0,ja,1,1,3,0,1.0,0,1,0,0.0,keine,Beratung,Beratung,3
+16,2,2,1,ja,0,0,1,1,0.0,1,2,1,1.0,Inobhutnahme,keine,Inobhutnahme,3
+0,2,1,0,ja,1,1,3,1,1.0,1,3,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+12,2,4,2,nein,0,0,0,0,0.0,0,0,0,0.0,keine,keine,keine,2
+12,1,4,2,nein,0,0,0,0,0.0,0,0,0,0.0,keine,keine,keine,2
+0,2,0,0,ja,1,1,3,1,1.0,1,3,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+17,1,1,1,nein,1,0,1,0,0.0,0,0,0,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+17,2,4,0,ja,0,0,1,1,0.0,1,2,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+0,1,2,2,nein,1,0,1,1,1.0,1,3,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+4,2,0,1,ja,1,1,3,1,1.0,1,3,1,1.0,keine,Beratung,Beratung,3
+14,1,3,0,ja,0,0,1,0,0.0,0,0,0,0.0,keine,keine,keine,2
+16,2,1,1,ja,0,0,1,0,0.0,0,0,0,0.0,keine,keine,keine,2
+17,1,3,2,nein,0,0,0,0,,1,1,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+16,1,1,1,ja,1,1,3,1,1.0,1,3,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+9,2,4,2,nein,0,0,0,0,0.0,0,0,0,0.0,keine,keine,keine,2
+4,1,0,2,nein,0,0,0,0,0.0,1,1,1,0.0,keine,keine,keine,2
+0,2,1,2,ja,1,1,3,1,1.0,1,3,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+16,1,0,0,nein,0,1,1,0,1.0,0,1,1,1.0,keine,keine,keine,2
+1,1,2,1,nein,0,0,0,0,0.0,0,0,0,0.0,keine,keine,keine,2
+0,1,4,2,nein,0,0,0,0,0.0,0,0,0,0.0,keine,keine,keine,2
+10,1,4,1,nein,0,0,0,0,0.0,0,0,0,0.0,keine,keine,keine,2
+16,2,2,1,nein,0,0,0,0,0.0,0,0,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+17,2,4,2,nein,0,0,0,0,0.0,0,0,0,0.0,keine,keine,keine,2
+0,1,4,2,nein,1,0,1,0,1.0,1,2,0,0.0,keine,keine,keine,2
+16,2,0,0,nein,1,1,2,1,1.0,1,3,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+3,2,0,0,ja,0,1,2,1,0.0,0,1,0,0.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+13,2,4,1,ja,0,1,2,0,0.0,0,0,0,0.0,keine,Beratung,Beratung,3
+6,2,2,1,ja,1,1,3,1,1.0,0,2,1,1.0,keine,Beratung,Beratung,3
+14,1,1,1,nein,0,1,1,0,0.0,0,0,0,0.0,keine,keine,keine,2
+7,1,1,1,ja,0,0,1,0,0.0,0,0,0,0.0,keine,keine,keine,2
+15,1,4,2,ja,0,0,1,0,0.0,0,0,0,0.0,keine,keine,keine,2
+10,2,4,2,nein,0,0,0,0,0.0,0,0,0,0.0,keine,keine,keine,2
+0,1,0,0,ja,1,1,3,0,1.0,1,2,0,0.0,keine,keine,keine,2
+2,2,4,2,nein,0,1,1,0,0.0,0,0,0,0.0,keine,keine,keine,2
+5,1,1,1,ja,0,0,1,1,1.0,1,3,1,1.0,keine,Beratung,Beratung,3
+2,2,2,2,nein,1,1,2,0,1.0,0,1,1,1.0,keine,keine,keine,2
+9,2,4,2,nein,0,1,1,0,0.0,0,0,0,0.0,Inobhutnahme,keine,Inobhutnahme,3
+16,2,4,2,nein,0,0,0,1,0.0,1,2,1,1.0,Inobhutnahme,keine,Inobhutnahme,3
+0,1,0,0,ja,1,1,3,1,1.0,1,3,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+17,2,1,1,nein,1,0,1,1,1.0,1,3,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+13,1,2,2,nein,0,1,1,1,1.0,1,3,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+0,2,4,2,nein,0,0,0,1,0.0,1,2,0,0.0,keine,keine,keine,2
+0,1,0,0,nein,1,1,2,1,1.0,1,3,0,0.0,keine,Beratung,Beratung,3
+2,1,2,0,ja,0,0,1,0,0.0,0,0,0,0.0,keine,keine,keine,2
+16,1,2,1,ja,0,0,1,0,0.0,1,1,0,0.0,keine,keine,keine,2
+1,2,2,2,nein,1,1,2,1,0.0,1,2,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+0,2,2,2,nein,0,1,1,0,0.0,0,0,0,0.0,keine,keine,keine,2
+0,2,2,2,nein,0,1,1,1,0.0,0,1,0,0.0,keine,keine,keine,2
+0,1,2,1,nein,0,1,1,1,1.0,0,2,0,0.0,keine,keine,keine,2
+0,1,3,0,ja,1,1,3,0,1.0,1,2,0,0.0,keine,keine,keine,2
+11,2,3,2,nein,0,0,0,0,0.0,0,0,0,0.0,keine,keine,keine,2
+0,2,4,2,nein,0,1,1,0,0.0,0,0,0,0.0,keine,keine,keine,2
+1,1,0,1,ja,1,1,3,1,1.0,1,3,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+2,2,3,0,ja,1,1,3,1,1.0,1,3,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+2,2,0,0,ja,1,1,3,1,1.0,1,3,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+0,1,2,2,ja,1,1,3,1,1.0,1,3,0,0.0,Inobhutnahme,keine,Inobhutnahme,3
+17,2,4,2,nein,0,0,0,0,0.0,0,0,0,0.0,keine,keine,keine,2
+5,2,4,1,nein,1,1,2,1,1.0,0,2,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+0,1,2,1,nein,1,1,2,1,1.0,1,3,0,0.0,keine,keine,keine,2
+2,1,0,2,nein,0,0,0,0,0.0,0,0,0,0.0,keine,keine,keine,2
+13,2,4,2,nein,0,0,0,0,0.0,0,0,0,0.0,keine,keine,keine,2
+3,2,2,0,ja,1,0,2,1,1.0,1,3,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+2,2,1,0,ja,1,0,2,0,0.0,1,1,0,0.0,Inobhutnahme,keine,Inobhutnahme,3
+16,1,1,0,ja,1,1,3,0,0.0,0,0,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+3,1,1,1,nein,1,0,1,0,1.0,0,1,1,0.0,keine,keine,keine,2
+1,2,0,1,ja,1,1,3,1,1.0,1,3,1,0.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+3,2,1,2,nein,0,0,0,0,0.0,1,1,0,0.0,Inobhutnahme,keine,Inobhutnahme,3
+17,2,3,0,ja,1,0,2,1,0.0,1,2,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+17,2,2,1,ja,0,1,2,0,0.0,0,0,0,0.0,keine,keine,keine,2
+17,2,1,2,nein,0,1,1,0,0.0,0,0,1,1.0,Inobhutnahme,keine,Inobhutnahme,3
+3,2,3,1,ja,0,1,2,1,0.0,0,1,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+6,1,2,1,nein,1,1,2,1,,1,3,0,0.0,Inobhutnahme,keine,Inobhutnahme,3
+5,1,2,1,ja,0,0,1,0,0.0,1,1,0,0.0,keine,keine,keine,2
+9,2,0,0,nein,1,0,1,1,1.0,1,3,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+1,2,2,2,ja,1,1,3,1,1.0,1,3,1,1.0,keine,Beratung,Beratung,3
+17,1,1,0,ja,1,0,2,0,0.0,1,1,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+1,1,2,0,ja,0,1,2,1,1.0,0,2,0,0.0,keine,keine,keine,2
+4,1,2,0,ja,1,1,3,0,1.0,0,1,0,0.0,keine,keine,keine,2
+0,2,2,2,nein,1,1,2,1,1.0,1,3,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+9,2,3,1,ja,1,0,2,1,1.0,1,3,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+17,2,3,1,nein,0,1,1,0,0.0,0,0,0,0.0,Inobhutnahme,keine,Inobhutnahme,3
+0,1,2,2,nein,0,0,0,0,,0,0,0,0.0,keine,keine,keine,2
+5,1,0,2,nein,1,0,1,1,1.0,1,3,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+0,1,1,2,nein,1,0,1,1,1.0,1,3,1,1.0,keine,keine,keine,2
+12,2,0,1,nein,0,0,0,0,0.0,0,0,0,0.0,keine,keine,keine,2
+15,2,0,2,nein,0,0,0,0,0.0,1,1,0,1.0,Inobhutnahme,keine,Inobhutnahme,3
+0,1,0,0,ja,1,1,3,1,1.0,1,3,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+17,2,1,1,nein,0,0,0,0,0.0,0,0,0,0.0,keine,keine,keine,2
+1,1,3,1,ja,1,1,3,1,1.0,1,3,1,1.0,Inobhutnahme,keine,Inobhutnahme,3
+0,2,3,0,ja,1,1,3,1,1.0,1,3,1,,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+0,2,1,0,ja,1,1,3,1,1.0,1,3,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+8,1,4,2,nein,0,0,0,0,0.0,0,0,0,0.0,keine,keine,keine,2
+17,2,3,2,nein,0,0,0,0,0.0,0,0,0,0.0,keine,Beratung,Beratung,3
+17,2,4,2,nein,0,0,0,0,0.0,0,0,0,,keine,keine,keine,2
+2,1,2,1,nein,1,0,1,1,1.0,1,3,0,0.0,keine,Beratung,Beratung,3
+9,2,3,2,nein,0,0,0,0,1.0,1,2,1,1.0,keine,Beratung,Beratung,3
+0,1,3,2,nein,1,0,1,0,0.0,0,0,0,0.0,keine,keine,keine,2
+0,1,1,2,nein,1,0,1,1,1.0,1,3,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+7,1,2,0,ja,1,0,2,0,1.0,1,2,1,1.0,keine,Beratung,Beratung,3
+0,2,0,0,ja,1,1,3,1,1.0,1,3,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+0,2,2,1,ja,1,1,3,1,1.0,1,3,1,0.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+0,1,0,0,ja,1,1,3,1,1.0,1,3,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+2,1,0,2,ja,1,0,2,1,1.0,1,3,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+17,1,2,2,ja,1,0,2,0,1.0,1,2,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+17,1,4,2,nein,0,0,0,0,0.0,0,0,0,0.0,Inobhutnahme,keine,Inobhutnahme,3
+0,2,1,0,ja,1,1,3,0,0.0,0,0,0,0.0,keine,keine,keine,2
+5,2,2,2,ja,1,1,3,1,1.0,1,3,1,1.0,keine,Beratung,Beratung,3
+3,1,4,0,ja,1,1,3,1,1.0,1,3,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+3,2,1,1,nein,1,1,2,1,1.0,1,3,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+0,2,1,1,nein,1,0,1,1,1.0,1,3,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+0,1,3,2,ja,1,1,3,1,1.0,1,3,0,0.0,keine,keine,keine,2
+0,2,1,2,ja,1,1,3,1,0.0,0,1,0,0.0,keine,keine,keine,2
+5,1,1,1,ja,1,1,3,1,1.0,1,3,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+13,2,3,2,nein,0,0,0,0,0.0,0,0,1,1.0,keine,keine,keine,2
+16,2,4,2,nein,0,0,0,1,0.0,1,2,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+7,1,3,0,ja,1,0,2,1,1.0,1,3,1,1.0,Inobhutnahme,keine,Inobhutnahme,3
+4,2,0,1,nein,1,1,2,1,1.0,1,3,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+6,1,4,2,nein,0,0,0,0,0.0,0,0,0,0.0,keine,keine,keine,2
+16,2,2,1,ja,1,1,3,1,1.0,0,2,1,1.0,keine,Beratung,Beratung,3
+17,2,0,1,nein,0,0,0,0,1.0,1,2,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+0,2,0,1,ja,1,1,3,1,1.0,1,3,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+14,2,3,0,ja,1,1,3,1,1.0,1,3,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+7,1,0,0,ja,1,1,3,1,1.0,1,3,1,1.0,keine,keine,keine,2
+5,1,4,2,nein,0,0,0,0,,0,0,0,0.0,keine,keine,keine,2
+17,1,2,2,nein,0,0,0,0,0.0,0,0,0,0.0,keine,keine,keine,2
+17,2,2,1,ja,0,1,2,1,0.0,0,1,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+13,2,4,0,ja,0,0,1,1,1.0,1,3,1,1.0,Inobhutnahme,keine,Inobhutnahme,3
+5,1,0,0,ja,1,1,3,1,0.0,0,1,0,0.0,Inobhutnahme,keine,Inobhutnahme,3
+10,2,4,1,nein,1,0,1,0,1.0,1,2,0,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+0,1,2,0,ja,1,0,2,1,1.0,1,3,0,0.0,keine,keine,keine,2
+4,2,4,1,nein,0,0,0,0,0.0,0,0,0,0.0,keine,keine,keine,2
+1,2,2,2,nein,0,1,1,1,0.0,0,1,0,0.0,keine,keine,keine,2
+16,2,1,0,ja,1,1,3,1,1.0,0,2,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+3,1,1,0,nein,1,0,1,1,1.0,1,3,0,0.0,keine,keine,keine,2
+11,2,0,0,ja,1,1,3,1,1.0,1,3,1,,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+7,2,4,0,ja,0,0,1,0,0.0,0,0,0,0.0,keine,keine,keine,2
+2,1,2,0,ja,0,0,1,0,0.0,1,1,0,0.0,keine,keine,keine,2
+0,1,3,0,ja,1,1,3,1,1.0,1,3,0,0.0,keine,keine,keine,2
+16,2,4,1,ja,0,1,2,0,0.0,0,0,0,0.0,keine,Beratung,Beratung,3
+0,2,4,2,nein,0,0,0,0,0.0,0,0,0,0.0,keine,keine,keine,2
+2,1,4,1,nein,0,0,0,0,0.0,0,0,0,0.0,keine,keine,keine,2
+17,2,0,1,nein,0,0,0,1,1.0,1,3,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+1,1,1,0,ja,1,1,3,1,1.0,1,3,1,1.0,keine,Beratung,Beratung,3
+0,1,4,1,ja,0,1,2,1,1.0,0,2,0,0.0,keine,keine,keine,2
+15,1,1,0,nein,1,1,2,1,1.0,1,3,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+8,2,4,2,nein,0,0,0,1,0.0,1,2,1,1.0,Inobhutnahme,keine,Inobhutnahme,3
+3,2,3,1,ja,0,1,2,1,1.0,0,2,1,1.0,keine,Beratung,Beratung,3
+17,2,3,2,nein,0,0,0,0,0.0,0,0,1,1.0,keine,keine,keine,2
+7,2,0,0,ja,1,1,3,1,1.0,1,3,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+0,2,3,1,nein,0,0,0,0,0.0,0,0,0,0.0,keine,keine,keine,2
+5,2,1,2,ja,1,0,2,0,0.0,0,0,0,0.0,keine,keine,keine,2
+0,2,0,0,ja,1,1,3,1,0.0,0,1,0,0.0,Inobhutnahme,keine,Inobhutnahme,3
+17,1,3,0,ja,0,1,2,0,0.0,0,0,0,0.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+1,1,0,0,ja,1,1,3,1,1.0,1,3,1,1.0,keine,Beratung,Beratung,3
+12,2,2,2,nein,0,1,1,0,0.0,0,0,0,0.0,keine,keine,keine,2
+10,1,3,0,ja,1,1,3,1,1.0,1,3,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+0,2,0,0,ja,1,1,3,1,1.0,1,3,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+7,2,4,2,nein,0,0,0,0,0.0,1,1,0,0.0,keine,keine,keine,2
+16,2,4,2,ja,0,0,1,0,1.0,1,2,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+0,2,0,0,ja,1,1,3,1,1.0,1,3,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+0,2,2,1,ja,1,1,3,1,1.0,0,2,1,1.0,keine,keine,keine,2
+17,2,2,0,ja,0,0,1,0,0.0,0,0,0,0.0,Inobhutnahme,keine,Inobhutnahme,3
+17,1,2,2,ja,0,1,2,0,0.0,0,0,0,0.0,keine,Beratung,Beratung,3
+0,1,0,2,nein,1,1,2,1,1.0,1,3,0,0.0,Inobhutnahme,keine,Inobhutnahme,3
+12,2,1,1,ja,1,1,3,1,1.0,1,3,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+0,2,0,1,ja,1,1,3,1,0.0,0,1,0,0.0,keine,keine,keine,2
+14,2,4,2,nein,0,0,0,0,0.0,0,0,0,0.0,Inobhutnahme,keine,Inobhutnahme,3
+0,1,4,0,nein,0,1,1,1,1.0,1,3,0,0.0,keine,keine,keine,2
+4,1,0,0,ja,0,1,2,0,0.0,0,0,0,0.0,keine,keine,keine,2
+17,2,1,0,ja,1,0,2,1,1.0,1,3,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+3,2,2,1,ja,1,1,3,1,1.0,1,3,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+9,1,3,0,ja,1,1,3,1,1.0,1,3,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+9,1,4,0,nein,0,0,0,0,0.0,1,1,0,0.0,keine,keine,keine,2
+16,2,4,1,nein,0,0,0,0,0.0,0,0,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+5,2,1,0,ja,1,1,3,1,1.0,1,3,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+13,1,1,2,nein,0,0,0,0,0.0,0,0,0,0.0,keine,keine,keine,2
+10,2,0,1,nein,0,1,1,0,0.0,0,0,0,0.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+3,2,4,2,ja,1,1,3,1,1.0,1,3,1,0.0,keine,keine,keine,2
+9,2,2,2,nein,0,0,0,0,0.0,0,0,0,0.0,keine,keine,keine,2
+3,2,4,2,ja,0,1,2,1,0.0,0,1,1,0.0,keine,Beratung,Beratung,3
+1,2,1,0,nein,1,1,2,0,1.0,1,2,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+0,2,1,0,nein,0,1,1,0,0.0,0,0,0,0.0,keine,keine,keine,2
+15,2,4,2,nein,0,0,0,0,0.0,0,0,0,0.0,keine,keine,keine,2
+13,2,3,0,nein,1,0,1,1,1.0,1,3,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+10,2,0,0,ja,1,0,2,1,0.0,0,1,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+6,2,0,0,ja,1,1,3,1,1.0,1,3,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+17,1,3,2,nein,0,0,0,0,0.0,0,0,0,0.0,keine,keine,keine,2
+1,2,0,0,ja,1,1,3,1,1.0,1,3,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+10,1,4,2,nein,0,0,0,0,0.0,0,0,0,0.0,keine,keine,keine,2
+17,2,4,1,ja,0,0,1,0,0.0,0,0,0,0.0,Inobhutnahme,keine,Inobhutnahme,3
+13,2,1,2,nein,0,1,1,1,0.0,0,1,1,0.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+15,2,3,1,nein,0,0,0,0,0.0,0,0,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+8,1,3,1,ja,0,0,1,0,1.0,1,2,0,0.0,keine,Beratung,Beratung,3
+8,2,0,0,ja,0,1,2,1,1.0,0,2,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+0,2,0,0,ja,1,1,3,1,1.0,1,3,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+17,2,4,0,ja,0,0,1,0,0.0,0,0,0,1.0,keine,Beratung,Beratung,3
+17,1,3,2,nein,0,0,0,0,0.0,0,0,0,0.0,keine,Beratung,Beratung,3
+12,2,0,1,ja,0,1,2,1,1.0,0,2,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+9,2,2,2,nein,0,0,0,0,0.0,1,1,0,0.0,keine,keine,keine,2
+10,2,1,1,ja,0,1,2,1,1.0,0,2,1,1.0,keine,Beratung,Beratung,3
+7,1,0,0,ja,1,1,3,1,1.0,1,3,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+1,2,4,2,nein,0,0,0,0,0.0,0,0,0,0.0,keine,keine,keine,2
+14,2,0,0,ja,1,1,3,1,0.0,0,1,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+16,1,1,0,nein,0,0,0,0,0.0,0,0,0,0.0,keine,keine,keine,2
+13,2,4,2,nein,0,0,0,0,0.0,0,0,0,0.0,keine,keine,keine,2
+17,2,3,0,ja,0,0,1,0,0.0,0,0,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+17,2,3,2,nein,0,0,0,0,0.0,0,0,1,0.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+0,2,2,0,nein,1,1,2,1,1.0,0,2,0,0.0,keine,keine,keine,2
+0,1,3,1,ja,1,0,2,1,1.0,1,3,0,0.0,keine,keine,keine,2
+13,1,3,2,nein,0,0,0,0,0.0,0,0,0,0.0,keine,keine,keine,2
+16,2,0,1,nein,0,1,1,0,0.0,0,0,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+15,1,3,1,ja,0,1,2,1,1.0,0,2,0,1.0,keine,Beratung,Beratung,3
+0,1,1,0,ja,1,1,3,1,1.0,1,3,0,0.0,keine,keine,keine,2
+7,2,2,1,nein,1,0,1,1,1.0,1,3,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+10,1,1,0,ja,0,1,2,0,0.0,0,0,0,0.0,keine,keine,keine,2
+0,1,3,1,ja,1,1,3,1,1.0,0,2,0,0.0,keine,keine,keine,2
+17,2,0,0,ja,0,1,2,0,1.0,1,2,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+0,1,0,1,ja,1,0,2,1,1.0,1,3,1,0.0,keine,Beratung,Beratung,3
+17,2,1,2,nein,1,0,1,0,0.0,0,0,1,1.0,Inobhutnahme,keine,Inobhutnahme,3
+17,1,4,2,nein,0,0,0,0,0.0,0,0,0,0.0,keine,Beratung,Beratung,3
+4,2,1,0,ja,0,0,1,1,0.0,0,1,0,1.0,keine,Beratung,Beratung,3
+16,2,4,1,ja,0,0,1,0,0.0,0,0,0,0.0,keine,keine,keine,2
+15,2,1,0,ja,0,0,1,0,0.0,0,0,0,0.0,Inobhutnahme,keine,Inobhutnahme,3
+15,1,3,1,ja,0,0,1,0,0.0,0,0,0,0.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+3,2,4,1,nein,1,1,2,1,1.0,0,2,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+0,2,4,1,nein,0,1,1,0,0.0,0,0,0,0.0,keine,keine,keine,2
+10,1,2,0,ja,0,0,1,0,0.0,0,0,0,0.0,keine,keine,keine,2
+15,2,3,1,ja,1,1,3,1,1.0,1,3,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+16,1,4,2,nein,0,0,0,0,0.0,0,0,0,0.0,keine,keine,keine,2
+17,2,3,2,nein,0,0,0,0,0.0,0,0,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+17,1,0,0,ja,1,1,3,1,1.0,1,3,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+0,2,3,2,nein,1,1,2,1,1.0,1,3,0,1.0,Inobhutnahme,keine,Inobhutnahme,3
+0,1,0,2,nein,1,0,1,0,1.0,1,2,0,0.0,keine,keine,keine,2
+2,2,0,0,ja,1,1,3,1,1.0,1,3,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+3,1,1,1,ja,1,0,2,1,1.0,1,3,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+13,2,3,2,nein,0,0,0,0,0.0,0,0,0,0.0,keine,keine,keine,2
+17,1,4,0,ja,0,1,2,0,0.0,0,0,0,0.0,keine,keine,keine,2
+15,1,1,0,ja,0,0,1,1,1.0,1,3,1,1.0,Inobhutnahme,keine,Inobhutnahme,3
+4,1,0,0,ja,1,1,3,1,1.0,1,3,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+17,2,4,1,nein,0,0,0,0,0.0,0,0,0,0.0,keine,keine,keine,2
+17,1,3,0,nein,1,0,1,0,0.0,1,1,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+15,2,4,1,nein,0,0,0,0,0.0,0,0,0,0.0,keine,keine,keine,2
+16,2,3,1,nein,0,0,0,1,1.0,1,3,1,1.0,keine,Beratung,Beratung,3
+16,2,0,1,nein,1,1,2,1,1.0,0,2,1,1.0,keine,Beratung,Beratung,3
+17,2,4,2,nein,0,1,1,1,0.0,0,1,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+1,2,1,2,nein,0,1,1,0,0.0,0,0,0,0.0,keine,keine,keine,2
+0,1,4,2,nein,1,1,2,1,1.0,1,3,0,0.0,keine,keine,keine,2
+3,1,0,2,nein,0,1,1,0,0.0,0,0,0,0.0,keine,keine,keine,2
+17,2,4,2,nein,0,0,0,0,0.0,0,0,0,0.0,keine,keine,keine,2
+17,1,1,1,nein,0,0,0,0,0.0,0,0,1,1.0,keine,keine,keine,2
+0,1,0,1,ja,1,1,3,0,1.0,1,2,0,0.0,keine,keine,keine,2
+5,2,0,0,nein,1,1,2,1,1.0,1,3,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+13,1,0,1,nein,0,1,1,1,0.0,0,1,1,1.0,Inobhutnahme,keine,Inobhutnahme,3
+17,1,3,1,nein,0,0,0,0,0.0,0,0,0,0.0,keine,keine,keine,2
+0,1,2,2,ja,1,1,3,1,1.0,1,3,1,1.0,keine,Beratung,Beratung,3
+13,2,2,2,nein,1,0,1,1,1.0,1,3,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+7,1,0,1,ja,1,1,3,1,1.0,1,3,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+5,2,3,2,nein,0,1,1,0,0.0,0,0,0,0.0,keine,keine,keine,2
+12,2,2,1,ja,1,0,2,0,0.0,0,0,0,0.0,keine,keine,keine,2
+17,2,2,2,nein,0,0,0,0,0.0,0,0,1,,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+6,2,3,2,ja,1,0,2,1,1.0,1,3,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+17,2,2,0,ja,1,1,3,1,1.0,1,3,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+17,2,2,0,ja,0,1,2,0,0.0,0,0,0,0.0,keine,Beratung,Beratung,3
+0,2,2,0,ja,1,1,3,1,1.0,1,3,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+13,1,3,2,nein,0,0,0,0,0.0,0,0,0,0.0,keine,keine,keine,2
+0,1,0,1,nein,0,0,0,0,0.0,1,1,0,0.0,keine,keine,keine,2
+13,2,4,1,ja,1,0,2,1,0.0,1,2,1,1.0,Inobhutnahme,keine,Inobhutnahme,3
+17,2,4,2,nein,0,0,0,1,1.0,1,3,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+0,1,0,1,ja,1,0,2,1,1.0,1,3,0,0.0,keine,Beratung,Beratung,3
+11,2,3,2,nein,0,0,0,0,,0,0,0,0.0,keine,keine,keine,2
+1,2,1,2,nein,0,0,0,0,0.0,0,0,0,,keine,keine,keine,2
+17,1,1,2,nein,0,0,0,0,0.0,0,0,0,0.0,keine,keine,keine,2
+6,1,0,1,nein,0,1,1,1,1.0,0,2,1,1.0,keine,Beratung,Beratung,3
+12,2,3,1,nein,0,0,0,0,0.0,0,0,0,0.0,keine,keine,keine,2
+0,1,1,0,ja,1,1,3,1,1.0,1,3,1,0.0,keine,keine,keine,2
+0,2,3,0,ja,0,0,1,1,0.0,1,2,0,0.0,keine,keine,keine,2
+0,1,2,0,ja,1,1,3,1,1.0,1,3,0,0.0,Inobhutnahme,keine,Inobhutnahme,3
+17,2,1,1,ja,1,1,3,1,1.0,0,2,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+9,2,0,1,nein,1,0,1,1,1.0,1,3,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+0,1,3,2,nein,1,0,1,0,1.0,1,2,0,0.0,keine,keine,keine,2
+7,1,0,0,ja,1,1,3,1,1.0,1,3,1,1.0,Inobhutnahme,keine,Inobhutnahme,3
+7,2,0,0,ja,1,1,3,1,1.0,1,3,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+6,1,1,0,ja,1,0,2,1,1.0,1,3,1,1.0,Inobhutnahme,keine,Inobhutnahme,3
+14,2,1,0,ja,1,1,3,1,1.0,1,3,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+0,1,1,1,nein,1,1,2,1,1.0,1,3,0,0.0,keine,Beratung,Beratung,3
+0,2,4,2,nein,0,0,0,0,0.0,0,0,0,0.0,keine,keine,keine,2
+4,1,4,1,nein,1,0,1,0,0.0,1,1,0,0.0,keine,keine,keine,2
+0,2,2,2,nein,0,1,1,1,0.0,0,1,0,0.0,keine,Beratung,Beratung,3
+17,1,0,0,ja,1,1,3,1,1.0,1,3,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+12,2,0,0,ja,1,1,3,1,1.0,1,3,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+0,1,1,1,nein,1,1,2,1,1.0,0,2,0,0.0,keine,Beratung,Beratung,3
+17,1,1,1,ja,1,1,3,0,0.0,0,0,0,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+14,2,4,2,nein,0,0,0,0,0.0,0,0,0,0.0,Inobhutnahme,keine,Inobhutnahme,3
+7,2,4,2,nein,0,0,0,0,0.0,0,0,0,0.0,keine,keine,keine,2
+14,1,1,2,ja,1,1,3,1,1.0,1,3,1,1.0,keine,Beratung,Beratung,3
+1,2,3,1,nein,1,1,2,1,1.0,1,3,1,1.0,Inobhutnahme,keine,Inobhutnahme,3
+16,2,3,0,ja,0,1,2,1,1.0,1,3,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+17,1,4,2,nein,0,0,0,0,0.0,0,0,0,0.0,keine,keine,keine,2
+16,1,1,2,nein,1,0,1,0,0.0,0,0,1,0.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+0,2,1,0,ja,1,1,3,1,1.0,1,3,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+9,1,1,1,nein,0,0,0,0,0.0,1,1,0,0.0,Inobhutnahme,keine,Inobhutnahme,3
+0,2,3,1,nein,1,1,2,1,0.0,0,1,0,0.0,keine,keine,keine,2
+6,2,3,2,ja,1,1,3,1,1.0,0,2,1,1.0,keine,Beratung,Beratung,3
+12,1,0,0,ja,1,1,3,1,1.0,1,3,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+17,2,2,2,nein,0,0,0,0,0.0,0,0,0,0.0,keine,keine,keine,2
+17,2,1,1,ja,0,0,1,1,0.0,0,1,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+2,2,2,2,ja,1,1,3,1,1.0,1,3,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+3,1,3,2,nein,0,0,0,0,0.0,1,1,0,0.0,keine,keine,keine,2
+13,1,0,0,ja,1,0,2,1,1.0,1,3,1,1.0,keine,Beratung,Beratung,3
+7,2,0,0,ja,1,1,3,1,1.0,1,3,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+0,2,0,0,ja,1,1,3,1,1.0,1,3,1,1.0,keine,Beratung,Beratung,3
+9,1,4,2,ja,0,0,1,0,0.0,0,0,0,0.0,keine,keine,keine,2
+0,2,0,1,nein,1,0,1,0,0.0,1,1,0,0.0,keine,keine,keine,2
+16,2,2,2,nein,1,0,1,0,1.0,1,2,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+5,1,3,0,ja,0,0,1,0,0.0,1,1,0,0.0,Inobhutnahme,keine,Inobhutnahme,3
+3,2,2,2,nein,0,1,1,1,0.0,1,2,1,0.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+0,1,0,1,nein,1,0,1,1,1.0,1,3,0,0.0,Inobhutnahme,keine,Inobhutnahme,3
+17,1,1,1,nein,1,0,1,0,1.0,1,2,1,1.0,Inobhutnahme,keine,Inobhutnahme,3
+0,1,1,0,ja,1,1,3,1,1.0,1,3,1,1.0,Inobhutnahme,keine,Inobhutnahme,3
+10,2,4,2,nein,0,1,1,1,1.0,0,2,1,0.0,keine,Beratung,Beratung,3
+15,2,4,2,nein,1,1,2,0,1.0,0,1,0,1.0,keine,Beratung,Beratung,3
+13,2,2,0,ja,1,1,3,1,1.0,0,2,1,1.0,keine,Beratung,Beratung,3
+0,2,4,2,nein,0,1,1,1,0.0,0,1,0,0.0,keine,keine,keine,2
+0,2,4,2,nein,0,0,0,0,0.0,0,0,0,0.0,keine,keine,keine,2
+11,2,0,0,ja,1,1,3,1,1.0,1,3,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+10,2,0,0,ja,0,1,2,1,1.0,0,2,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+2,2,0,0,ja,1,1,3,0,0.0,0,0,0,0.0,Inobhutnahme,keine,Inobhutnahme,3
+1,2,1,1,ja,1,1,3,1,1.0,1,3,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+0,1,3,1,nein,0,0,0,0,0.0,0,0,0,0.0,keine,keine,keine,2
+16,1,3,0,ja,1,0,2,0,1.0,1,2,0,0.0,Inobhutnahme,keine,Inobhutnahme,3
+7,2,1,1,nein,1,1,2,1,1.0,1,3,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+16,2,3,1,nein,0,1,1,1,0.0,0,1,1,1.0,Inobhutnahme,keine,Inobhutnahme,3
+0,2,4,2,nein,1,1,2,1,1.0,0,2,0,0.0,keine,keine,keine,2
+0,2,0,1,ja,1,1,3,1,1.0,0,2,0,1.0,Inobhutnahme,keine,Inobhutnahme,3
+0,1,3,1,ja,1,0,2,1,1.0,1,3,1,0.0,keine,keine,keine,2
+5,2,4,2,nein,1,1,2,1,0.0,0,1,0,0.0,keine,keine,keine,2
+17,2,3,2,nein,0,0,0,1,0.0,0,1,1,1.0,keine,Beratung,Beratung,3
+8,1,1,0,ja,1,0,2,0,0.0,1,1,0,0.0,keine,keine,keine,2
+3,2,3,2,nein,0,0,0,0,0.0,0,0,0,0.0,keine,keine,keine,2
+0,1,1,1,nein,1,1,2,1,1.0,1,3,0,0.0,keine,keine,keine,2
+7,1,0,2,nein,1,0,1,0,1.0,1,2,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+6,2,2,1,ja,1,0,2,0,,1,2,0,0.0,keine,keine,keine,2
+6,2,0,0,nein,1,1,2,1,1.0,1,3,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+0,1,4,0,nein,1,1,2,1,1.0,0,2,0,0.0,keine,Beratung,Beratung,3
+9,1,2,2,nein,1,1,2,1,1.0,1,3,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+13,2,0,0,ja,1,1,3,1,1.0,1,3,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+16,1,1,0,ja,1,0,2,1,1.0,1,3,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+4,1,0,1,nein,0,0,0,0,0.0,1,1,0,0.0,keine,keine,keine,2
+13,1,0,0,ja,0,1,2,0,0.0,0,0,0,0.0,keine,keine,keine,2
+4,1,4,2,nein,0,0,0,0,0.0,0,0,0,0.0,keine,keine,keine,2
+2,2,1,2,nein,1,1,2,1,1.0,0,2,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+6,2,3,1,ja,0,0,1,1,1.0,1,3,1,1.0,keine,Beratung,Beratung,3
+11,1,4,0,ja,0,1,2,0,0.0,0,0,0,0.0,keine,keine,keine,2
+0,2,4,2,ja,1,0,2,0,1.0,1,2,0,0.0,keine,keine,keine,2
+16,2,2,0,ja,1,1,3,1,1.0,1,3,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+16,2,1,0,ja,0,1,2,1,0.0,1,2,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+2,2,4,1,nein,0,0,0,1,0.0,0,1,0,0.0,keine,keine,keine,2
+6,1,1,0,nein,0,1,1,1,1.0,0,2,1,0.0,keine,Beratung,Beratung,3
+15,2,1,2,nein,0,0,0,0,0.0,0,0,0,1.0,keine,keine,keine,2
+9,2,1,0,ja,1,1,3,1,1.0,1,3,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+16,1,4,2,nein,0,0,0,0,0.0,0,0,0,0.0,keine,keine,keine,2
+0,1,1,0,ja,1,1,3,1,1.0,1,3,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+5,2,1,2,ja,0,1,2,1,1.0,0,2,0,0.0,keine,keine,keine,2
+1,1,4,1,ja,1,1,3,0,1.0,0,1,0,0.0,keine,keine,keine,2
+1,2,1,0,ja,1,1,3,1,1.0,1,3,1,1.0,Inobhutnahme,keine,Inobhutnahme,3
+0,2,1,2,nein,0,0,0,1,1.0,1,3,1,0.0,keine,keine,keine,2
+17,1,4,2,nein,0,0,0,0,0.0,0,0,0,0.0,keine,keine,keine,2
+13,2,1,1,nein,1,1,2,1,1.0,1,3,1,1.0,keine,Beratung,Beratung,3
+16,1,0,0,ja,1,1,3,1,1.0,1,3,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+16,2,0,0,ja,1,1,3,1,1.0,0,2,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+17,1,3,2,nein,0,0,0,0,0.0,0,0,0,0.0,keine,Beratung,Beratung,3
+11,1,0,2,ja,1,1,3,1,1.0,1,3,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+0,1,0,0,ja,1,1,3,1,1.0,1,3,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+7,1,4,1,nein,0,0,0,0,0.0,1,1,0,0.0,keine,Beratung,Beratung,3
+0,2,1,0,ja,1,1,3,1,1.0,1,3,0,0.0,keine,keine,keine,2
+1,1,4,2,ja,0,1,2,0,0.0,0,0,0,0.0,keine,keine,keine,2
+17,2,2,1,ja,0,0,1,0,0.0,0,0,1,1.0,Inobhutnahme,keine,Inobhutnahme,3
+3,1,2,2,nein,0,0,0,1,1.0,1,3,1,0.0,keine,Beratung,Beratung,3
+5,2,1,1,ja,0,1,2,0,0.0,0,0,0,0.0,Inobhutnahme,keine,Inobhutnahme,3
+1,1,1,2,nein,0,0,0,0,0.0,0,0,0,0.0,keine,keine,keine,2
+7,2,4,2,nein,0,0,0,0,0.0,1,1,1,0.0,keine,keine,keine,2
+2,1,0,0,ja,1,1,3,1,1.0,1,3,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+17,1,2,0,nein,0,0,0,0,0.0,0,0,0,0.0,keine,keine,keine,2
+14,1,4,2,nein,0,0,0,0,0.0,0,0,0,1.0,keine,keine,keine,2
+7,1,2,2,ja,1,0,2,0,0.0,1,1,0,1.0,Inobhutnahme,keine,Inobhutnahme,3
+7,1,4,0,ja,0,1,2,0,0.0,0,0,0,0.0,keine,keine,keine,2
+6,1,0,0,ja,1,0,2,1,1.0,1,3,1,1.0,Inobhutnahme,keine,Inobhutnahme,3
+14,1,2,1,ja,0,1,2,0,0.0,0,0,0,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+0,1,1,1,nein,1,1,2,0,1.0,0,1,0,0.0,keine,keine,keine,2
+17,2,3,0,ja,0,1,2,0,0.0,0,0,0,0.0,Inobhutnahme,keine,Inobhutnahme,3
+1,1,0,0,ja,1,1,3,1,1.0,1,3,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+4,2,4,2,nein,0,0,0,1,0.0,0,1,0,0.0,keine,keine,keine,2
+11,2,0,1,ja,1,0,2,1,1.0,1,3,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+0,1,4,2,nein,0,0,0,0,0.0,0,0,0,0.0,keine,keine,keine,2
+2,2,1,2,nein,0,1,1,0,0.0,0,0,0,0.0,keine,keine,keine,2
+15,1,3,1,nein,0,1,1,0,1.0,1,2,1,1.0,Inobhutnahme,keine,Inobhutnahme,3
+1,1,3,2,nein,0,0,0,0,0.0,0,0,0,0.0,keine,keine,keine,2
+9,2,3,2,nein,1,0,1,0,0.0,0,0,0,0.0,keine,keine,keine,2
+8,2,2,0,ja,1,0,2,1,1.0,1,3,1,1.0,Inobhutnahme,keine,Inobhutnahme,3
+17,2,2,2,nein,0,1,1,0,0.0,0,0,0,0.0,keine,Beratung,Beratung,3
+13,2,1,1,nein,0,0,0,1,0.0,0,1,0,0.0,keine,keine,keine,2
+17,2,2,1,ja,1,0,2,1,1.0,1,3,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+16,1,2,1,ja,1,0,2,0,1.0,1,2,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+0,1,0,1,ja,1,1,3,1,1.0,1,3,1,1.0,Inobhutnahme,keine,Inobhutnahme,3
+2,2,1,0,ja,1,1,3,1,1.0,1,3,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+10,1,2,2,ja,0,0,1,0,0.0,0,0,0,0.0,keine,keine,keine,2
+3,2,3,2,nein,1,0,1,1,1.0,1,3,1,1.0,keine,keine,keine,2
+17,2,0,0,ja,1,1,3,1,1.0,1,3,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+2,2,2,0,ja,1,1,3,0,1.0,0,1,0,0.0,keine,keine,keine,2
+17,2,3,1,nein,0,0,0,0,0.0,0,0,0,0.0,Inobhutnahme,keine,Inobhutnahme,3
+13,2,4,2,ja,0,1,2,1,0.0,0,1,1,0.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+0,2,0,0,nein,1,1,2,1,1.0,1,3,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+5,2,4,0,ja,1,1,3,1,1.0,1,3,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+13,1,4,0,nein,0,1,1,0,0.0,0,0,0,0.0,keine,keine,keine,2
+14,2,3,0,nein,0,0,0,0,0.0,0,0,0,0.0,keine,keine,keine,2
+17,1,4,2,nein,0,0,0,0,0.0,0,0,0,0.0,keine,keine,keine,2
+1,2,2,2,nein,0,1,1,1,0.0,0,1,0,0.0,keine,keine,keine,2
+10,2,3,2,nein,0,1,1,0,0.0,0,0,0,0.0,keine,Beratung,Beratung,3
+13,2,2,0,ja,1,1,3,1,1.0,1,3,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+9,2,1,2,nein,0,1,1,1,0.0,0,1,1,1.0,keine,Beratung,Beratung,3
+7,2,0,0,ja,1,1,3,1,1.0,1,3,0,0.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+6,1,1,1,nein,0,1,1,1,1.0,0,2,1,1.0,keine,Beratung,Beratung,3
+9,2,0,0,ja,1,1,3,1,1.0,1,3,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+0,1,1,0,ja,1,0,2,1,1.0,1,3,1,1.0,keine,Beratung,Beratung,3
+7,1,0,0,ja,1,1,3,1,1.0,1,3,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+7,1,4,2,nein,0,0,0,0,0.0,0,0,0,0.0,keine,keine,keine,2
+5,2,4,1,ja,1,0,2,1,1.0,0,2,0,0.0,keine,keine,keine,2
+11,2,2,1,ja,0,0,1,0,0.0,0,0,0,0.0,keine,keine,keine,2
+1,1,4,2,nein,0,0,0,0,0.0,0,0,0,0.0,keine,keine,keine,2
+8,1,2,2,nein,1,0,1,0,0.0,0,0,0,0.0,Inobhutnahme,keine,Inobhutnahme,3
+11,2,1,0,ja,1,1,3,1,1.0,0,2,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+12,2,0,0,ja,1,1,3,1,1.0,1,3,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+3,2,4,2,nein,0,0,0,0,0.0,0,0,0,0.0,keine,keine,keine,2
+1,1,1,1,ja,1,0,2,1,1.0,1,3,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+4,2,0,1,nein,1,1,2,1,0.0,0,1,1,1.0,keine,Beratung,Beratung,3
+0,1,1,2,nein,1,0,1,1,1.0,1,3,1,1.0,keine,keine,keine,2
+15,1,3,2,nein,0,0,0,0,1.0,1,2,1,1.0,keine,Beratung,Beratung,3
+17,1,3,2,nein,0,0,0,0,0.0,0,0,0,0.0,keine,keine,keine,2
+17,2,4,0,ja,0,1,2,1,1.0,0,2,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+7,2,4,2,ja,1,1,3,1,1.0,1,3,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+3,1,2,0,ja,0,0,1,0,0.0,1,1,0,0.0,keine,keine,keine,2
+13,2,2,2,ja,0,1,2,1,1.0,1,3,1,1.0,keine,Beratung,Beratung,3
+14,2,1,0,nein,0,1,1,1,0.0,0,1,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+0,2,1,1,nein,1,0,1,1,1.0,1,3,1,0.0,keine,keine,keine,2
+2,1,0,0,ja,1,0,2,1,1.0,1,3,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+13,2,1,1,ja,1,1,3,1,0.0,0,1,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+1,2,3,2,nein,0,0,0,0,0.0,0,0,0,0.0,keine,keine,keine,2
+8,1,1,1,ja,0,1,2,1,1.0,1,3,1,0.0,keine,Beratung,Beratung,3
+17,2,0,1,ja,1,1,3,1,1.0,1,3,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+14,1,0,0,ja,1,0,2,0,0.0,0,0,0,1.0,Inobhutnahme,keine,Inobhutnahme,3
+14,2,0,0,ja,1,1,3,1,1.0,1,3,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+2,1,1,2,nein,0,0,0,0,0.0,0,0,0,0.0,keine,keine,keine,2
+1,2,3,1,nein,1,1,2,1,0.0,0,1,0,0.0,Inobhutnahme,keine,Inobhutnahme,3
+0,2,3,2,ja,1,1,3,1,1.0,1,3,1,0.0,keine,Beratung,Beratung,3
+16,2,2,1,ja,0,1,2,1,0.0,0,1,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+17,2,0,0,ja,0,0,1,0,,0,0,0,0.0,keine,Beratung,Beratung,3
+4,1,0,0,ja,0,1,2,1,1.0,0,2,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+2,1,1,0,nein,1,1,2,0,1.0,1,2,0,0.0,keine,keine,keine,2
+9,1,3,0,nein,0,1,1,0,1.0,0,1,0,0.0,keine,keine,keine,2
+4,2,4,2,ja,0,0,1,0,0.0,1,1,1,0.0,Inobhutnahme,keine,Inobhutnahme,3
+12,2,4,2,nein,0,0,0,0,0.0,0,0,0,0.0,keine,keine,keine,2
+15,2,4,2,nein,0,0,0,0,0.0,0,0,0,0.0,keine,keine,keine,2
+11,2,2,1,ja,1,0,2,1,1.0,1,3,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+0,1,4,1,nein,1,1,2,1,1.0,1,3,1,1.0,keine,Beratung,Beratung,3
+0,2,3,0,nein,0,0,0,1,0.0,0,1,0,0.0,keine,keine,keine,2
+8,1,2,2,nein,0,0,0,0,0.0,0,0,0,0.0,keine,keine,keine,2
+17,2,3,0,nein,0,1,1,0,0.0,0,0,0,0.0,keine,Beratung,Beratung,3
+10,1,2,1,nein,1,1,2,1,1.0,1,3,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+17,1,0,1,nein,0,0,0,0,0.0,1,1,1,1.0,Inobhutnahme,keine,Inobhutnahme,3
+1,1,0,0,ja,1,1,3,1,1.0,1,3,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+2,2,1,0,ja,0,0,1,0,0.0,0,0,0,0.0,keine,keine,keine,2
+7,1,4,2,nein,0,1,1,0,1.0,0,1,0,0.0,keine,keine,keine,2
+10,1,0,2,nein,0,0,0,0,0.0,0,0,0,0.0,keine,Beratung,Beratung,3
+2,1,0,0,ja,0,0,1,1,1.0,1,3,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+11,1,1,1,nein,1,0,1,1,1.0,1,3,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+16,1,4,1,ja,0,1,2,0,0.0,0,0,0,0.0,keine,keine,keine,2
+10,2,1,0,nein,1,0,1,1,1.0,1,3,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+1,1,1,0,nein,1,1,2,0,0.0,0,0,0,0.0,keine,keine,keine,2
+0,1,4,1,ja,1,1,3,0,1.0,0,1,0,0.0,keine,keine,keine,2
+16,2,4,2,nein,0,0,0,0,0.0,0,0,0,0.0,keine,keine,keine,2
+8,2,3,2,nein,0,0,0,0,0.0,0,0,0,0.0,keine,keine,keine,2
+15,2,1,0,nein,0,1,1,1,0.0,0,1,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+17,2,3,2,nein,0,0,0,0,0.0,0,0,0,0.0,keine,keine,keine,2
+0,1,3,1,nein,1,0,1,0,1.0,1,2,0,0.0,keine,keine,keine,2
+13,1,1,0,ja,1,1,3,1,1.0,1,3,1,1.0,Inobhutnahme,keine,Inobhutnahme,3
+17,2,3,1,nein,0,0,0,1,0.0,0,1,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+17,2,1,1,ja,1,1,3,0,1.0,0,1,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+13,1,1,1,nein,0,1,1,0,0.0,0,0,0,0.0,keine,keine,keine,2
+17,1,0,0,ja,1,1,3,0,1.0,0,1,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+17,1,3,1,ja,0,0,1,0,0.0,0,0,0,0.0,Inobhutnahme,keine,Inobhutnahme,3
+17,2,1,2,nein,0,1,1,0,0.0,0,0,0,0.0,Inobhutnahme,keine,Inobhutnahme,3
+4,2,0,0,nein,1,1,2,1,1.0,1,3,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+3,2,2,1,ja,0,1,2,1,1.0,0,2,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+5,1,2,1,ja,0,0,1,0,0.0,0,0,0,0.0,keine,keine,keine,2
+17,2,1,1,ja,0,1,2,1,0.0,0,1,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+0,1,1,0,ja,1,0,2,1,1.0,1,3,0,0.0,keine,keine,keine,2
+0,2,0,0,ja,1,1,3,1,1.0,1,3,0,0.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+17,2,2,1,nein,0,0,0,1,0.0,1,2,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+17,1,2,2,nein,0,1,1,0,0.0,0,0,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+8,2,0,1,nein,1,1,2,1,1.0,1,3,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+1,2,3,0,ja,1,1,3,1,0.0,0,1,0,0.0,keine,Beratung,Beratung,3
+16,2,2,2,ja,1,0,2,0,0.0,1,1,1,1.0,Inobhutnahme,keine,Inobhutnahme,3
+15,2,3,1,ja,1,0,2,1,1.0,1,3,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+16,1,3,2,nein,0,1,1,0,0.0,0,0,0,0.0,keine,Beratung,Beratung,3
+7,2,2,2,nein,0,0,0,0,0.0,1,1,0,0.0,keine,keine,keine,2
+3,2,3,2,nein,1,0,1,1,0.0,1,2,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+17,2,4,1,nein,0,0,0,0,0.0,0,0,0,0.0,keine,keine,keine,2
+17,2,3,1,nein,0,0,0,0,0.0,0,0,0,0.0,keine,keine,keine,2
+17,2,1,1,nein,0,1,1,0,0.0,0,0,1,1.0,keine,Beratung,Beratung,3
+1,1,0,0,ja,1,1,3,1,1.0,1,3,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+17,2,2,0,ja,0,0,1,0,0.0,0,0,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+1,1,3,0,ja,1,0,2,1,1.0,1,3,1,0.0,keine,Beratung,Beratung,3
+17,1,2,1,ja,0,0,1,1,0.0,1,2,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+10,1,4,1,ja,0,1,2,0,0.0,0,0,0,0.0,keine,keine,keine,2
+9,2,3,2,nein,1,1,2,1,1.0,0,2,1,1.0,keine,Beratung,Beratung,3
+3,1,4,1,ja,1,1,3,1,1.0,0,2,1,0.0,Inobhutnahme,keine,Inobhutnahme,3
+11,1,4,0,ja,1,0,2,0,1.0,1,2,1,1.0,keine,Beratung,Beratung,3
+3,2,2,1,ja,1,0,2,1,0.0,1,2,0,1.0,Inobhutnahme,keine,Inobhutnahme,3
+1,1,4,1,nein,0,1,1,0,0.0,0,0,0,0.0,keine,keine,keine,2
+0,1,3,2,nein,1,1,2,1,1.0,1,3,0,0.0,keine,keine,keine,2
+13,2,4,2,nein,0,0,0,0,0.0,0,0,0,0.0,keine,keine,keine,2
+15,2,4,2,nein,0,0,0,0,0.0,0,0,0,0.0,keine,keine,keine,2
+0,1,1,1,ja,1,1,3,1,1.0,1,3,0,0.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+2,1,1,1,ja,1,0,2,1,1.0,1,3,0,0.0,keine,keine,keine,2
+17,2,4,2,nein,0,0,0,0,0.0,0,0,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+8,1,0,0,ja,1,1,3,1,1.0,1,3,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+0,2,2,0,ja,1,1,3,1,1.0,1,3,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+17,2,2,2,nein,0,1,1,1,,0,1,1,1.0,keine,Beratung,Beratung,3
+17,1,0,0,ja,1,0,2,0,1.0,1,2,1,1.0,keine,Beratung,Beratung,3
+0,2,3,2,nein,1,1,2,1,1.0,1,3,1,1.0,Inobhutnahme,keine,Inobhutnahme,3
+1,2,0,0,ja,1,1,3,1,1.0,0,2,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+2,1,4,2,nein,0,1,1,0,1.0,0,1,0,0.0,keine,keine,keine,2
+4,1,4,1,nein,0,0,0,1,1.0,0,2,0,0.0,keine,Beratung,Beratung,3
+16,1,4,2,ja,0,0,1,0,0.0,0,0,0,0.0,keine,keine,keine,2
+17,2,4,1,ja,0,1,2,0,0.0,0,0,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+1,2,0,1,nein,0,1,1,1,0.0,0,1,0,0.0,keine,keine,keine,2
+17,1,4,2,nein,0,0,0,0,0.0,0,0,0,0.0,keine,keine,keine,2
+16,1,4,2,nein,0,0,0,0,0.0,0,0,0,0.0,keine,keine,keine,2
+6,1,0,0,nein,1,0,1,1,1.0,1,3,0,1.0,keine,Beratung,Beratung,3
+17,2,1,1,ja,0,0,1,0,0.0,0,0,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+5,1,4,2,ja,1,1,3,0,1.0,1,2,1,1.0,Inobhutnahme,keine,Inobhutnahme,3
+16,1,2,2,nein,0,0,0,0,,1,1,0,0.0,keine,keine,keine,2
+16,2,1,1,nein,1,0,1,0,0.0,1,1,0,1.0,Inobhutnahme,keine,Inobhutnahme,3
+13,2,0,0,ja,1,1,3,1,1.0,1,3,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+2,2,2,1,nein,0,1,1,0,0.0,0,0,0,0.0,Inobhutnahme,keine,Inobhutnahme,3
+17,2,0,2,nein,0,0,0,1,0.0,1,2,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+0,2,2,1,nein,0,1,1,1,1.0,0,2,0,0.0,keine,Beratung,Beratung,3
+10,2,1,1,nein,0,0,0,1,0.0,0,1,0,0.0,Inobhutnahme,keine,Inobhutnahme,3
+16,1,1,1,nein,0,1,1,1,1.0,0,2,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+0,1,1,0,ja,1,1,3,0,0.0,0,0,0,0.0,keine,keine,keine,2
+0,1,4,2,nein,1,0,1,0,0.0,0,0,0,0.0,keine,keine,keine,2
+14,2,4,2,ja,0,0,1,0,0.0,0,0,0,0.0,keine,keine,keine,2
+5,1,2,1,nein,1,1,2,1,1.0,1,3,1,1.0,keine,Beratung,Beratung,3
+1,2,1,2,ja,1,1,3,1,1.0,1,3,1,1.0,keine,Beratung,Beratung,3
+17,1,3,2,nein,0,0,0,0,0.0,0,0,1,0.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+7,1,0,1,ja,1,1,3,0,1.0,0,1,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+17,2,4,2,nein,0,0,0,1,0.0,0,1,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+4,1,4,2,nein,0,1,1,0,0.0,0,0,0,0.0,keine,keine,keine,2
+1,1,1,1,ja,1,1,3,0,1.0,1,2,1,1.0,Inobhutnahme,keine,Inobhutnahme,3
+15,2,4,2,ja,1,0,2,0,0.0,1,1,0,0.0,Inobhutnahme,keine,Inobhutnahme,3
+8,2,3,1,nein,1,0,1,0,1.0,1,2,1,1.0,keine,Beratung,Beratung,3
+10,2,2,1,nein,0,1,1,0,0.0,0,0,0,0.0,keine,Beratung,Beratung,3
+0,2,2,1,nein,1,1,2,1,1.0,1,3,1,0.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+5,1,1,2,ja,1,0,2,0,1.0,1,2,0,0.0,keine,Beratung,Beratung,3
+9,2,1,1,ja,1,1,3,0,0.0,0,0,0,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+0,1,2,2,ja,0,1,2,0,0.0,0,0,0,0.0,keine,keine,keine,2
+8,2,0,0,ja,1,1,3,1,1.0,1,3,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+17,2,2,2,nein,0,0,0,0,0.0,1,1,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+0,1,3,1,nein,1,1,2,0,0.0,0,0,0,0.0,keine,keine,keine,2
+17,1,0,1,ja,0,0,1,0,0.0,1,1,1,1.0,Inobhutnahme,keine,Inobhutnahme,3
+17,2,3,2,ja,0,0,1,0,0.0,0,0,1,1.0,keine,Beratung,Beratung,3
+16,2,4,2,nein,0,0,0,0,0.0,1,1,1,1.0,Inobhutnahme,keine,Inobhutnahme,3
+9,1,0,0,ja,1,1,3,1,1.0,1,3,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+2,2,0,1,ja,1,0,2,1,0.0,1,2,0,0.0,keine,keine,keine,2
+16,1,2,0,ja,1,1,3,0,1.0,1,2,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+17,1,2,1,ja,0,0,1,0,0.0,1,1,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+8,2,4,2,nein,0,0,0,0,0.0,0,0,0,0.0,keine,keine,keine,2
+16,2,3,2,nein,0,0,0,0,0.0,0,0,0,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+5,1,4,1,nein,0,0,0,0,0.0,0,0,0,0.0,keine,keine,keine,2
+17,2,3,0,ja,0,0,1,0,0.0,1,1,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+0,1,4,2,nein,0,0,0,0,0.0,0,0,0,0.0,keine,keine,keine,2
+15,2,4,1,nein,0,0,0,1,1.0,1,3,1,1.0,keine,Beratung,Beratung,3
+12,2,4,0,ja,0,1,2,1,0.0,0,1,1,0.0,keine,keine,keine,2
+17,2,3,2,nein,0,0,0,0,0.0,0,0,0,0.0,keine,keine,keine,2
+13,1,0,0,ja,1,1,3,1,1.0,1,3,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+16,2,0,0,nein,0,1,1,1,0.0,0,1,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+1,2,4,2,ja,0,0,1,1,0.0,0,1,0,0.0,keine,keine,keine,2
+17,2,3,2,nein,0,0,0,1,0.0,0,1,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+1,1,0,0,ja,1,1,3,1,1.0,1,3,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+5,1,1,1,ja,0,0,1,0,0.0,0,0,0,0.0,keine,keine,keine,2
+17,1,1,1,ja,0,0,1,0,0.0,0,0,0,0.0,keine,Beratung,Beratung,3
+6,2,4,2,nein,0,0,0,0,0.0,0,0,0,0.0,keine,keine,keine,2
+9,2,3,0,nein,0,0,0,0,0.0,0,0,0,0.0,keine,keine,keine,2
+17,2,1,0,ja,1,0,2,0,1.0,1,2,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+0,1,3,2,nein,1,0,1,1,1.0,1,3,1,1.0,Inobhutnahme,keine,Inobhutnahme,3
+3,1,4,2,nein,0,0,0,0,0.0,0,0,0,0.0,keine,keine,keine,2
+17,1,3,0,ja,0,0,1,0,0.0,1,1,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+17,1,0,0,ja,1,1,3,1,1.0,1,3,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+2,1,2,1,nein,1,0,1,1,1.0,1,3,1,1.0,keine,Beratung,Beratung,3
+17,2,2,0,nein,1,1,2,1,1.0,1,3,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+9,1,2,1,nein,1,0,1,0,1.0,1,2,1,1.0,Inobhutnahme,keine,Inobhutnahme,3
+0,2,1,1,nein,1,0,1,0,0.0,0,0,0,0.0,keine,keine,keine,2
+17,1,1,1,nein,0,0,0,0,0.0,0,0,0,0.0,keine,keine,keine,2
+16,1,2,0,ja,1,1,3,1,1.0,1,3,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+12,2,3,0,ja,0,1,2,1,1.0,0,2,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+17,1,1,0,ja,1,1,3,1,1.0,1,3,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+15,2,2,2,nein,0,1,1,0,0.0,0,0,0,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+17,2,4,2,nein,0,0,0,0,0.0,1,1,0,1.0,Inobhutnahme,keine,Inobhutnahme,3
+17,1,0,0,nein,0,0,0,0,0.0,0,0,0,0.0,keine,Beratung,Beratung,3
+13,1,3,2,nein,0,0,0,0,0.0,1,1,0,0.0,keine,keine,keine,2
+15,2,0,0,ja,1,1,3,1,1.0,1,3,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+12,1,3,1,nein,0,0,0,0,1.0,1,2,1,1.0,Inobhutnahme,keine,Inobhutnahme,3
+8,2,1,2,nein,1,0,1,0,0.0,0,0,0,0.0,keine,keine,keine,2
+17,2,0,0,ja,1,0,2,1,1.0,1,3,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+1,2,3,0,ja,1,1,3,1,1.0,1,3,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+0,2,2,1,nein,1,1,2,1,1.0,1,3,1,0.0,keine,Beratung,Beratung,3
+3,1,0,1,nein,1,0,1,0,1.0,1,2,1,1.0,Inobhutnahme,keine,Inobhutnahme,3
+1,2,1,2,nein,0,1,1,1,1.0,0,2,1,0.0,keine,Beratung,Beratung,3
+16,2,2,1,ja,1,1,3,1,1.0,1,3,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+0,1,0,0,ja,1,1,3,1,1.0,1,3,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+1,1,1,0,ja,1,1,3,1,1.0,1,3,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+17,2,1,2,nein,1,0,1,1,1.0,1,3,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+0,1,2,1,nein,0,1,1,0,0.0,0,0,0,0.0,keine,keine,keine,2
+15,2,1,2,nein,1,0,1,1,1.0,1,3,1,1.0,Inobhutnahme,Beratung,Beratung und Inobhutnahme,4
+1,1,2,2,nein,0,0,0,0,0.0,0,0,0,0.0,keine,keine,keine,2
